@@ -1,3 +1,6 @@
+# VQA dataset
+data/*
+
 # Compiled Lua sources
 luac.out
 
