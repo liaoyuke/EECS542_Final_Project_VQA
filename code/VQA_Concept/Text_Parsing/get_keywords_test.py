@@ -1,7 +1,6 @@
-from get_key_words import *
-
+from get_keywords import *
 
 sentence  = "placeholder"
 while sentence != "exit":
 	sentence = raw_input("Enter the Sentence: ")
-	GetKeyWords(sentence)
+	get_keywords(sentence)

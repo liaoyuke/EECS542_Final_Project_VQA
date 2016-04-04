@@ -1,7 +1,7 @@
 import urllib2
 import json
 
-def GetCommonSense(word, limit):
+def get_commonsense(word, limit):
 	str = 'http://conceptnet5.media.mit.edu/data/5.4/c/en/' + word
 	response = urllib2.urlopen(str)
 	data = json.load(response)
