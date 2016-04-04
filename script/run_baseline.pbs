@@ -8,7 +8,7 @@
 #PBS -l qos=flux
 #PBS -M liaoyuke@umich.edu
 #PBS -m abe
-#PBS -l walltime=20:00:00
+#PBS -l walltime=30:00:00
 #PBS -j eo
 #PBS -V
 
