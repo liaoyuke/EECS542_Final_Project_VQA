@@ -1,6 +1,12 @@
 # VQA dataset
 data/*
 
+# pyc files
+*.pyc
+
+# .DS_Store files
+*.DS_Store
+
 # Compiled Lua sources
 luac.out
 
