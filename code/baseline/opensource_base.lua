@@ -146,7 +146,7 @@ function load_visualqadataset(opt, dataType, manager_vocab)
    
     -- VQA question/answer txt files.
     -- Download data_vqa_feat.zip and data_vqa_txt.zip and decompress into this folder
-    local path_dataset = '/data/vision/oliva/scenedataset/vqa_cache/'
+    local path_dataset = '/scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data'
     
     local prefix = 'coco_' .. dataType 
     local filename_question = paths.concat(path_dataset, prefix .. '_question.txt')
