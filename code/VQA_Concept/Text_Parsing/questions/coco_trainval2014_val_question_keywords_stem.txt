@@ -39,7 +39,7 @@ pigeon-picture-lot
 color-letter
 image-surfboard
 wetsuit
-below-from-thi-or
+below-from-this-or
 umbrella
 
 color-walk
@@ -50,7 +50,7 @@ track-train
 train
 word-letter-sign
 sock-shoe-brand
-tenni-shoe
+tennis-shoe
 sponsor
 visitor-battery
 sport
@@ -285,7 +285,7 @@ thing
 
 mean-sign
 overcast
-house-a-thi
+house-a-this
 bed
 photo
 window
@@ -320,7 +320,7 @@ goalie-shirt-color
 sock-color
 sink-photo
 bed-boy
-child-shoeles
+child-shoeless
 flower-sheet-bed
 picture
 plane
@@ -367,7 +367,7 @@ plane
 cow
 bird-stand
 color-cow-middle
-city-thi-what
+city-this-what
 animal
 scene
 room
@@ -387,7 +387,7 @@ metal
 bread
 cup-table
 table
-coworker
+coworkers
 horseback
 color-horse
 skinny-horse
@@ -406,7 +406,7 @@ tree-photo
 adult
 pole-ski
 leg-child-call
-spaghettus-girl
+spaghetti-girl
 sunglass-girl
 hair-ponytail
 suitcase
@@ -443,7 +443,7 @@ vegetarian
 food
 color-plate
 cab-truck-scene
-grill-tree-truck-christma
+grill-tree-truck-christmas
 truck-color
 wall-color
 television-top-of-the-on-what
@@ -488,11 +488,11 @@ child-look
 wall
 boy
 clock-color-hand
-build-type-of-thi-what
+build-type-of-this-what
 brick
 sport-boy-partake
 dog
-place-day-time-of-thi-what
+place-day-time-of-this-what
 sign
 shape-sign
 stop-sign
@@ -541,7 +541,7 @@ train-track
 
 sunglass
 boat
-build-name-of-the-thi-what
+build-name-of-the-this-what
 
 color-suitcase
 picture
@@ -561,7 +561,7 @@ vegetarian-meal
 food-kind
 clock-doe
 book
-bookshelve
+bookshelves
 computer-brand
 table
 window-curtain
@@ -667,7 +667,7 @@ coat
 volleyball-picture-net
 umbrella
 color-picture
-day-time-of-thi-what
+day-time-of-this-what
 smoke
 train
 bird-color
@@ -752,7 +752,7 @@ plane-tail
 pilot-plane
 propeller-tip-color
 bench
-day-time-of-thi-what
+day-time-of-this-what
 park-dog
 eyeglass
 shirt-color
@@ -774,7 +774,7 @@ laptop
 vegetarian-meal
 cloud
 head
-people-outdoor-the-or
+people-outdoors-the-or
 shape-table
 table
 flower
@@ -791,7 +791,7 @@ freezer-food-kind
 
 row-freezer
 device-safety
-where-thi
+where-this
 stand
 bear
 gravestone
@@ -813,7 +813,7 @@ mirror
 bike
 
 
-bookshelve
+bookshelves
 season-it-what
 sport
 goggle-boy
@@ -837,7 +837,7 @@ everyone
 
 bus-green
 
-station-type-of-thi-what
+station-type-of-this-what
 cop-image
 news story
 reporter-news-picture
@@ -859,7 +859,7 @@ kind
 sky-cloud
 color-bus
 bus
-hogwart-journey-step
+hogwarts-journey-step
 room-kind
 train
 shirt-girl-line
@@ -928,7 +928,7 @@ container
 shirt-boy
 gender-frisbee
 fence-equipment
-town-thi-what
+town-this-what
 wall
 bus-display
 light
@@ -978,20 +978,20 @@ tusk-animal
 color-elephant
 street-sign
 sign
-city-thi-what
+city-this-what
 donut
 bagel
 cup
 people-how
 eat
-inside-house-a-thi
+inside-house-a-this
 injury
 soccer
 player-grind-a-the-on
 color-line
 batter-ball-hit
 batter
-night-thi
+night-this
 horse-image
 ranger
 color-umbrella
@@ -1033,7 +1033,7 @@ clothe
 beach-horse
 leg-horse
 horse
-water-body-a-thi
+water-body-a-this
 color
 color-surfboard
 ball-picture-kind
@@ -1044,7 +1044,7 @@ purse-color
 picture
 color
 hand
-calory-donut
+calories-donut
 textbook
 run-animal-hound-look
 breed-dog
@@ -1071,7 +1071,7 @@ cupcake
 color-frost
 pizza-american city
 color-ring-plate
-calory
+calories
 
 sunny
 dog
@@ -1090,7 +1090,7 @@ airline
 car-street
 
 man-he-a
-thi
+this
 store
 food
 
@@ -1191,7 +1191,7 @@ game
 wall
 roof-car
 car-color
-outdoor-thi-or
+outdoors-this-or
 woman
 child
 boy
@@ -1235,7 +1235,7 @@ floor-cat
 picture-cat
 cat-kind
 
-inside-outside-thi-or
+inside-outside-this-or
 camera-elephant
 sunny
 surfer-wave
@@ -1402,7 +1402,7 @@ curtain-color-shower
 pizza-slice
 color-plate
 pizza
-where-thi
+where-this
 shadow
 beach
 donut
@@ -1467,7 +1467,7 @@ dog
 toy-dog
 bridge
 build-of-the-what
-city-thi-which
+city-this-which
 shoe
 suitcase-shoe
 shade-wood
@@ -1514,13 +1514,13 @@ train
 night-it
 bus
 unite
-thi
+this
 bus-color
 color-chain
 boy
 child-how
 fridge
-fixture-ceil-light
+fixture-ceiling-light
 blender-counter
 sign
 church-name-what
@@ -1539,7 +1539,7 @@ water-the-what
 color-bag-plastic
 boat
 boat-animal
-boat-fishes
+boat-fishing
 short-color-boy
 boy
 chair-boy
@@ -1670,7 +1670,7 @@ ball
 
 
 bus
-city-thi-what
+city-this-what
 bus-curb
 dog
 sauce-kind
@@ -1734,7 +1734,7 @@ object-distance
 everyone-snowsuit
 lighthouse-color
 lighthouse
-fishes-port
+fishing-port
 meal
 shape-table
 restaurant-coffee
@@ -1759,7 +1759,7 @@ color-sheet
 animal-picture
 
 woman
-fishes
+fishing
 
 
 photo
@@ -1789,7 +1789,7 @@ ball-color
 soda-background-kind
 cup-color
 bottle-coca-cola
-player-team-for-thi-what
+player-team-for-this-what
 crowd
 batter-ball-hit
 woman
@@ -1842,7 +1842,7 @@ ad-viagra
 vest-color
 cheese-macaroni
 vegetable
-calory
+calories
 snow-hydrant
 color-hydrate
 terrain
@@ -1912,7 +1912,7 @@ room-table
 controller-color
 belt-anyone
 controller-woman
-field-people-how-thi
+field-people-how-this
 game-what
 color
 car
@@ -2013,7 +2013,7 @@ photo
 sign-number
 backyard-photo
 animal-picture
-family-a-thi
+family-a-this
 sink-hang-wall
 image-mirror
 robe-hang
@@ -2061,7 +2061,7 @@ window-view
 tree-branch-picture
 plane-vehicle
 plane
-where-thi
+where-this
 photo
 plant-color
 vase
@@ -2111,7 +2111,7 @@ dog
 sign
 
 
-country-thi-what
+country-this-what
 flower-tree-color
 object-cat
 cat-book
@@ -2181,7 +2181,7 @@ truck-picture
 truck-alley
 tie
 tie
-fixture-ceil-kind
+fixture-ceiling-kind
 driver-car
 attire-sport team
 kid-hat-stand
@@ -2254,9 +2254,9 @@ lake
 photography
 photo
 photo
-tenni
-olympic-tenni-match
-green-tenni court
+tennis
+olympics-tennis-match
+green-tennis court
 chair
 window-room
 people-how
@@ -2270,8 +2270,8 @@ cat
 couch-color
 cat-escape
 bird-kind
-church-thi-a
-night-thi-at
+church-this-a
+night-this-at
 step
 
 hand
@@ -2337,7 +2337,7 @@ vegetable-carrot
 basket-row
 trick-skateboarder
 color-shoe
-man-outside-thi
+man-outside-this
 ingredient
 pizza-chicago
 pizza-pick
@@ -2364,7 +2364,7 @@ ski
 skier
 tusk-elephant
 camera-elephant
-elephant-ear
+elephant-ears
 color-hair-girl
 boy-dance
 game-they-what
@@ -2388,7 +2388,7 @@ catcher-arm
 battery-shape
 
 color-goggle-snowboarder
-season-thi-what
+season-this-what
 window-train
 color-train
 train
@@ -2401,7 +2401,7 @@ image-horizon
 
 texture-picture-material
 flower-room
-country-thi-what
+country-this-what
 
 kite-homemade
 food-kind
@@ -2465,7 +2465,7 @@ carriage-horse
 someone
 girl
 color
-tenni
+tennis
 sky-color-look
 horse
 color-horse
@@ -2478,7 +2478,7 @@ pastry-boston-donut-creme
 breakfast-bed
 tongue-stick
 
-man-thi
+man-this
 bakery-bagel
 start
 transportation
@@ -2522,7 +2522,7 @@ activity
 
 
 afternoon-morning
-where-thi
+where-this
 tree-kind
 wall
 grass-color
@@ -2538,7 +2538,7 @@ batter
 ball
 burger
 pastry-bin-kind
-thi-or
+this-or
 hand
 selfie
 color-phone
@@ -2566,7 +2566,7 @@ weather
 plane
 pant-color-blow
 sky
-hydrophobium
+hydrophobia
 wave
 calm-photo
 clothe
@@ -2672,7 +2672,7 @@ meat
 vegetable-plate
 color-plate
 
-thi
+this
 someone
 eat
 ounce-food
@@ -2721,7 +2721,7 @@ customer
 salt-table-shaker
 driver-customer
 
-where-thi
+where-this
 plane
 engine-plane
 sky-color
@@ -2788,7 +2788,7 @@ fly-bird
 pedal-bike
 tricycle
 horse
-surrounding-look
+surroundings-look
 room-bear
 scene
 grass-animal-stand
@@ -2833,7 +2833,7 @@ leave-foreground-tree
 bus-color
 brake-bus
 color
-family-a-thi
+family-a-this
 jacket
 car-picture
 war-star
@@ -2908,7 +2908,7 @@ wave
 keyboard-color
 animal-picture
 animal
-pastum-salad
+pasta-salad
 salad-vegetable-kind
 salad
 dog
@@ -2942,7 +2942,7 @@ hat
 girl
 suitcase
 company-name-of-what-the
-symbolism-phallu
+symbolism-phallus
 fly-vehicle
 woman
 woman
@@ -2987,7 +2987,7 @@ ball-girl-hit
 turf-color
 ball-hit-girl
 culture
-city-thi-what
+city-this-what
 corner
 skier-photo-look-middle
 ski-chair
@@ -3053,7 +3053,7 @@ tie-print-kind
 color-necktie
 
 they
-wius game
+wii game
 shirt-color
 woman-read
 scarf-color-woman
@@ -3107,7 +3107,7 @@ shirt-color
 
 couch
 glove-woman
-period-place-time-of-for-thi-what
+period-place-time-of-for-this-what
 
 bike
 color-sign
@@ -3160,7 +3160,7 @@ unite
 clock-color
 clock
 clock
-tenni-match-sponsor-lacoste
+tennis-match-sponsor-lacoste
 sport
 sand
 wear-wetsuit
@@ -3234,7 +3234,7 @@ beach
 picture
 camera-woman
 bathroom-woman
-lamp-ceil
+lamp-ceiling
 orange-cut
 fruit-instrument
 fork-color
@@ -3249,11 +3249,11 @@ control
 object
 bike-motion
 truck-color
-inside-thi
+inside-this
 wall-color
 match-shirt-kitten-girl
 skin
-thi
+this
 woman
 sport
 slipper-floor
@@ -3343,14 +3343,14 @@ chair
 sign
 stick-relationship-figure
 vehicle-sign
-tenni-racket-hand
+tennis-racket-hand
 skirt-woman
 grass-line
 banana
 banana-color-sticker
 banana
 color-flag
-spiral-fibonaccus
+spiral-fibonacci
 time-it-what
 swing-ball
 field-people-how-on-the
@@ -3359,16 +3359,16 @@ bat
 glass
 write-whiteboard
 cat-color-eye
-electronic
+electronics
 nose-color-cat
 camera
 camera
-len-photo-kind
+lens-photo-kind
 time-it-what
 material
 sign
 food-eat-need
-outdoor-thi-or
+outdoors-this-or
 child-how
 bus
 bus
@@ -3384,7 +3384,7 @@ tomato
 sandwich-kind
 home-people-at-their-these
 
-ceil-light
+ceiling-light
 horse
 tree
 grass-color
@@ -3431,7 +3431,7 @@ breakfast-hotel
 picture
 hallway
 fence-horse
-country-city-the-thi-or
+country-city-the-this-or
 color-horse
 mesh
 tool-portion-break
@@ -3485,7 +3485,7 @@ skate park
 skate-clothe
 
 alligator-brand-stand
-game-thi-what
+game-this-what
 
 object
 pole
@@ -3513,7 +3513,7 @@ light
 stop
 color-cat-eye
 motorcycle
-thi
+this
 breed-dog
 dog-escape
 dog-cage
@@ -3613,7 +3613,7 @@ bear
 color-tree
 pavement-word
 lane-stop
-fishes
+fishing
 dog
 color-dog
 color-umbrella
@@ -3662,7 +3662,7 @@ beard
 dog
 animal
 cook-device-picture
-space-for-thi-what
+space-for-this-what
 pipe
 raw-food
 meal
@@ -3708,7 +3708,7 @@ cake
 photo
 cake
 chocolate-utensil
-deliciou-cake
+delicious-cake
 
 friend
 photo-wall
@@ -3725,7 +3725,7 @@ towel-mirror
 sink
 door
 green-food
-olife-pizza
+olives-pizza
 pizza
 tree-kind
 skier
@@ -3780,7 +3780,7 @@ weather
 plane
 tv
 light
-office-thi-an
+office-this-an
 
 umbrella
 rain-umbrella
@@ -3806,7 +3806,7 @@ cap
 
 picture-cell phone
 court-of-the-what
-game-thi-what
+game-this-what
 wrist
 stove-pot
 time-it-what
@@ -3891,7 +3891,7 @@ timeshare-hotel room
 someone
 
 sky-color
-town-a-thi
+town-a-this
 picture
 fruit
 banana-size
@@ -4010,7 +4010,7 @@ letter-mousepad
 table
 lense
 picture
-tenni-knee
+tennis-knee
 outfit-snow-woman
 stand
 shoe
@@ -4044,7 +4044,7 @@ oven-knob
 oven
 hat
 shirt
-tenni-car-wall
+tennis-car-wall
 cat
 eat-cat
 color-frost
@@ -4102,7 +4102,7 @@ america
 scene
 pink-animal
 zebra
-event-thi-what
+event-this-what
 crowd
 pitcher-motion
 boy-farm
@@ -4123,7 +4123,7 @@ texture-hair-woman
 cow
 cow-bull
 animal
-wius-weapon
+wii-weapon
 electricity-item
 strap-color-wrist
 ball-table
@@ -4173,13 +4173,13 @@ tower-flag
 flag
 fruit
 people-how
-inside-thi
+inside-this
 food-kind
 sandwich-shape
 
 portrait
 room-kind
-fixture-ceil
+fixture-ceiling
 furniture
 bracelet
 couch-bed
@@ -4202,12 +4202,12 @@ comp
 screen-image-computer-background
 phone
 picture-foundation
-church-thi-a-can
+church-this-a-can
 height
 window-blind
 door-refrigerator
 floor
-electronic-sponsor
+electronics-sponsor
 helmet-energy-drink
 skater
 boy
@@ -4255,7 +4255,7 @@ phone
 woman-hand
 shoe-brand
 score
-ceil-hang
+ceiling-hang
 couch-picture
 picture-faucet
 eat-animal-photo
@@ -4400,7 +4400,7 @@ dog-horse
 fence
 dog-kind
 outfit-brand
-color-tenni court
+color-tennis court
 color-headband
 zebra
 rain-lot
@@ -4465,7 +4465,7 @@ plate-kind
 food
 onion-plate
 
-tenni-age
+tennis-age
 tower
 bleacher
 ocean
@@ -4525,11 +4525,11 @@ picture-decade
 animal
 
 graze-sheep
-tenni court
+tennis court
 british colony
 color
 skateboard
-ceil-room-foot
+ceiling-room-foot
 conference
 giraffe
 giraffe-stand
@@ -4559,7 +4559,7 @@ color-glass-table
 screen-word-computer
 eyeglass
 cell phone
-princes
+princess
 phone-touch screen
 helmet-boy
 ship-background
@@ -4569,7 +4569,7 @@ color-rope
 horse
 food
 vegan-pizza
-olife-pizza
+olives-pizza
 
 cap-color
 picture-middle
@@ -4616,7 +4616,7 @@ skier-vest
 ski-woman-kind
 
 color-write
-city-thi-what
+city-this-what
 broadway-stop
 giraffe-eat
 animal
@@ -4658,7 +4658,7 @@ restaurant
 
 room
 ball-boy-kind
-tenni-ball-racket
+tennis-ball-racket
 ball-racket-boy
 bike
 door
@@ -4693,13 +4693,13 @@ sport
 flower
 flower
 color-bird
-build-top-the-a-of-from-thi
+build-top-the-a-of-from-this
 road-on-the-what
 road-on-the-what
 window-item-balance
 photo
 vehicle
-hoove
+hooves
 predator-animal-danger
 zebra-photo
 photo
@@ -4708,7 +4708,7 @@ grass-green
 picture
 
 graze-animal-kind
-elephant-circu
+elephant-circus
 elephant
 performer-girl
 sunny
@@ -4736,7 +4736,7 @@ mountain range
 graffiti-train
 snow
 clock-someone-fall
-time-thi-what
+time-this-what
 clock-chain
 nice
 flower-kind
@@ -4763,7 +4763,7 @@ room
 seat-boy
 people-how
 elephant-photo
-day-time-of-thi-what
+day-time-of-this-what
 trunk-elephant
 bottle-plastic-drink
 desk-tree
@@ -4803,7 +4803,7 @@ canopy-boat
 snowy
 shirt-color
 foreground-object
-house-a-thi
+house-a-this
 bench
 bench-row
 bench
@@ -4823,7 +4823,7 @@ curtain-shower-picture
 shower
 toilet
 guy-rope
-where-thi
+where-this
 hand
 window-train
 passenger-train
@@ -4870,9 +4870,9 @@ feeder-giraffe
 train
 train station
 track
-where-thi
+where-this
 guy
-outside-thi
+outside-this
 girl
 someone
 beginner-girl-hill
@@ -4895,11 +4895,11 @@ nurse-woman-child
 woman
 photo
 
-jersey-longorium
+jersey-longoria
 attention
 sail-boat
 man-the
-fishes-equipment
+fishing-equipment
 word
 photo
 bird-kind
@@ -5030,7 +5030,7 @@ bench
 picture
 bench
 tree-park
-public-place-a-thi
+public-place-a-this
 park
 color-bedspread
 stool-color
@@ -5091,7 +5091,7 @@ horse
 bit-horse-mouth
 animal
 rug-animal
-ear-animal-thing
+ears-animal-thing
 wall-color
 woman
 woman-room
@@ -5238,18 +5238,18 @@ actor
 smoke-cigarette
 color-balloon
 lady
-country-city-or-thi-the
+country-city-or-this-the
 shirt-boy
-family-a-thi
+family-a-this
 jacket
-tenni
+tennis
 shirt-color-boy
 boy
 bridge
 train-bridge-pass
 bridge
 luggage-piece
-brand-off
+brand-offs
 suitcase
 passenger-train
 train-number
@@ -5278,8 +5278,8 @@ game-they-what
 boarder-hand
 
 skier-arm-side
-tenni-racket
-game-thi-what
+tennis-racket
+game-this-what
 boy
 jerry orbach
 street
@@ -5355,7 +5355,7 @@ color-object
 shirt-color
 clock-tower
 color
-church-thi-a
+church-this-a
 antenna-shape
 tv
 furniture-piece
@@ -5408,7 +5408,7 @@ arch-height-street
 clock
 
 hair
-water-person-thi
+water-person-this
 
 train
 color-circle
@@ -5443,7 +5443,7 @@ even
 gray-salary-creature
 animal-photo
 photo
-head-person-on-thi-what
+head-person-on-this-what
 tooth-brush
 woman
 bird
@@ -5479,7 +5479,7 @@ lamp
 giraffe
 elephant-photo
 giraffe
-game-the-thi-or
+game-the-this-or
 
 sport
 horse-image
@@ -5560,8 +5560,8 @@ bathroom
 hand
 object
 
-windsurfer
-sail-windsurfer
+windsurfers
+sail-windsurfers
 look
 stand
 how-he
@@ -5602,7 +5602,7 @@ shirt-color
 chocolate
 
 
-be-place-at-thi
+be-place-at-this
 clock-number
 clock
 roof-pavilion-color
@@ -5662,7 +5662,7 @@ bus station
 tub
 towel
 curtain-shower
-day-time-of-thi-what
+day-time-of-this-what
 photo
 light-traffic
 apple
@@ -5751,7 +5751,7 @@ stand-guess
 boat-kind
 cat
 battery-object-need
-electronic-cat
+electronics-cat
 soda-brand
 car
 car
@@ -5762,7 +5762,7 @@ shoe-girl
 leg
 hat
 guy
-ceil-hang-anything
+ceiling-hang-anything
 shirt-color
 cat
 shirt-orange-suitcase-pattern
@@ -5804,13 +5804,13 @@ sign
 front-build-of-the-what
 night-it
 bird-kind
-season-thi-what
+season-this-what
 white-water-the-what
 fruit
 vegetable
 crate
 pizza
-olife-pizza
+olives-pizza
 pizza-paper
 vehicle
 truck
@@ -5854,7 +5854,7 @@ vegetable-pizza
 sink
 towel-picture
 light
-city-thi-what
+city-this-what
 bus-color
 bus
 bus-website
@@ -5897,7 +5897,7 @@ pizza-mouth-kind
 eat
 jacket-color
 photographer-bear
-ear-bear
+ears-bear
 color-bear
 pet-kind
 door-hang-panel
@@ -5957,7 +5957,7 @@ photo-focus
 round-object-purpose
 tv
 sock-knee
-game-thi-what
+game-this-what
 visor-woman
 license-plate
 driver-bus-license
@@ -5994,7 +5994,7 @@ lady
 eat-lady
 cuisine-kind
 vegetarian-dish
-pastum-plate
+pasta-plate
 duck-step
 calm
 goose
@@ -6134,7 +6134,7 @@ tree
 giraffe-picture
 zoo
 animal
-where-thi-at
+where-this-at
 tiger
 shirt-color
 object
@@ -6158,7 +6158,7 @@ cat
 picture-cat-kind
 face
 motorbike
-thi-what
+this-what
 sunny
 cheese-sandwich
 
@@ -6174,7 +6174,7 @@ eat
 woman-mouth
 thing
 bug-toy-lady-picture
-wheel-ferri
+wheel-ferris
 skull-snowboard
 snow-snowboard
 snow-pair-goggle
@@ -6247,7 +6247,7 @@ flower-vase-plant
 truck-color
 clock-display
 photo
-calory-meal
+calories-meal
 food-plate-type
 pizza-pepperoni
 racer
@@ -6303,7 +6303,7 @@ shirt-boy
 elbow-table
 car
 pylon
-where-thi
+where-this
 sign
 sign
 building
@@ -6422,7 +6422,7 @@ cat
 kitten
 cat-dog
 banana
-calory-coin
+calories-coin
 coin
 color-chair
 floor
@@ -6451,7 +6451,7 @@ device-cat-kind
 
 photo
 picture
-where-thi
+where-this
 
 outside
 plant-green-one
@@ -6546,8 +6546,8 @@ wig
 
 truck
 fuel-vehicle
-name-place-of-thi-the-what
-earbud
+name-place-of-this-the-what
+earbuds
 keyboard
 keyboard-color
 mirror
@@ -6583,7 +6583,7 @@ color-cow
 woman-surfboard
 sunny
 activity-board
-where-thi
+where-this
 cast
 people
 carrot-tasty-look
@@ -6613,7 +6613,7 @@ pant-boy
 color-swimsuit
 sky-object
 beach
-xius-roman numeral
+xii-roman numeral
 device
 clock-wood
 woman
@@ -6758,7 +6758,7 @@ giraffe
 grass-green
 giraffe
 shirt-girl-brand
-where-thi-at
+where-this-at
 color-surfboard
 kite-color
 kite
@@ -6782,7 +6782,7 @@ color-ring-plate
 food
 fork
 car
-water-thi-to
+water-this-to
 color-hydrant
 window
 window
@@ -6897,7 +6897,7 @@ water-the-on-what
 swimmer
 hat-pull
 musician-tip-anyone
-bas
+bass
 
 woman-surfboard
 
@@ -6915,11 +6915,11 @@ boy-kind
 boy-hand
 pole-sign
 floor
-day-time-of-thi-what
+day-time-of-this-what
 room
 shirt-color-photographer
 shower-bath-room
-country-thi-what
+country-this-what
 restaurant
 lot
 task
@@ -7017,7 +7017,7 @@ microwave
 appliance-someone
 floor
 table
-build-type-of-thi-what
+build-type-of-this-what
 nose-pig-color
 train
 image
@@ -7043,7 +7043,7 @@ hang-wall-object
 belly
 they-what-with
 leg-bed
-ceil-sprinkler
+ceiling-sprinkler
 bedroom-hotel room
 credit card
 park-hour
@@ -7094,7 +7094,7 @@ cross-street
 motorcycle
 traffic
 barack obama
-city-thi-what
+city-this-what
 venue
 bus-picture
 bus
@@ -7334,7 +7334,7 @@ train
 train
 color-train
 mode-transportation
-town-thi-what
+town-this-what
 north-way-which
 gear-safety
 tournament
@@ -7388,7 +7388,7 @@ ball-hit
 ball-color
 woman
 man-number-the-what
-player-play-team-for-thi-what
+player-play-team-for-this-what
 
 room
 room
@@ -7396,8 +7396,8 @@ pillow
 friend
 all-man-age-the
 bench
-wius-floor-box
-wius game
+wii-floor-box
+wii game
 human-scene
 net-boy
 ball-hit-boy
@@ -7405,11 +7405,11 @@ boy-hand
 bird-horse
 cast
 bird
-ear
+ears
 elephant-image
 elephant-baby-adult
 shirt-suit
-neckty
+neckties
 shirt
 juvenile-animal
 relationship-baby animal
@@ -7494,7 +7494,7 @@ alphabet-street-letter
 light-color-traffic
 stripe-pant-color-side
 sky
-outdoor-thi-or
+outdoors-this-or
 surfboard
 short-pant
 skater-fall
@@ -7577,7 +7577,7 @@ device
 
 camera
 tree-kind
-road-lead-where-to-thi
+road-lead-where-to-this
 wheel-truck
 vegetable
 banana
@@ -7600,7 +7600,7 @@ room-sofa
 animal
 location
 people
-deliciou-food-picture-look
+delicious-food-picture-look
 wrist-picture-watch
 
 surfboard
@@ -7694,7 +7694,7 @@ wine taste
 pant-color-girl
 bottle-wine-wrapper
 knife-hand-hold
-will-where-they-thi
+will-where-they-this
 cake-layer
 architecture-photo
 shape
@@ -7703,7 +7703,7 @@ bus-camera
 
 bus
 doll
-precipitation-sky-kind-christma tree
+precipitation-sky-kind-christmas tree
 light-tree
 animal-picture-kind
 truck-color
@@ -7728,7 +7728,7 @@ motor-boat
 tree-building
 habitat-zebra
 car-stick
-hoove
+hooves
 instrument-background
 woman-look
 instrument-background
@@ -7754,7 +7754,7 @@ guitar-woman
 clock
 woman-hair
 floor-material
-where-thi
+where-this
 lot
 kitchen-dishwasher
 floor
@@ -7839,7 +7839,7 @@ rainy day
 vehicle
 sport
 play-night-they-at-can
-tenni-match
+tennis-match
 stove-object
 stove
 pan
@@ -7901,7 +7901,7 @@ shirt-color
 cup-drink
 photo
 doughnut-kind-frost
-person-home-at-thi
+person-home-at-this
 glass
 street-middle
 sell-anything
@@ -8065,7 +8065,7 @@ surface
 banana
 time-it-what
 door-hinge
-order-thi-to
+order-this-to
 plate-croissant
 liquid-glass
 
@@ -8102,7 +8102,7 @@ motorcycle
 sculpture
 lake
 picture
-city-thi-what
+city-this-what
 subway
 fight-bear
 bear
@@ -8144,7 +8144,7 @@ tray-food-piece
 vegan-meal
 liquid-glass
 
-man-thi-the
+man-this-the
 photo
 background-walk-sign
 traffic-sticker-sign
@@ -8177,7 +8177,7 @@ fence-material
 giraffe-kind
 color
 man-the
-thi
+this
 wall
 
 kitchen
@@ -8234,7 +8234,7 @@ shirt-color-boy
 kid
 brown-girl-hair
 tv-anyone
-ceil-hang
+ceiling-hang
 bed
 shirt-color
 watch
@@ -8248,7 +8248,7 @@ elephant
 dalmatian-neck
 dog-human
 eat-dog
-gate-tenni court
+gate-tennis court
 follicle-someone
 day-time-of-what-it
 ostrich
@@ -8271,10 +8271,10 @@ trick-boy
 skate park
 cow-bell
 nose-color-cow
-landform-cow
-fece-toilet bowl
+landforms-cow
+feces-toilet bowl
 bathroom
-fece-color
+feces-color
 meal
 dish
 meal
@@ -8285,7 +8285,7 @@ vehicle-bus-left side
 bus-decker
 route-bus
 color-line
-tenni-ball
+tennis-ball
 color-hair
 footwear
 
@@ -8407,7 +8407,7 @@ phone-brand
 eat-cat-doughnut-look
 color-cat
 cat-box
-june-thi-can
+june-this-can
 live
 boat-color
 sb
@@ -8438,7 +8438,7 @@ tree-distance
 scene-summer
 ski
 window-building-lot
-build-thi-what
+build-this-what
 clock
 kid-skate-learn
 kid
@@ -8460,7 +8460,7 @@ shore-surfer
 surfboard
 wed
 middle
-place-where-thi
+place-where-this
 
 green-floor
 
@@ -8587,8 +8587,8 @@ giraffe-access
 bed-room
 lava-lamp
 twin-bed-size
-thi
-where-thi
+this
+where-this
 word
 
 mouth
@@ -8638,7 +8638,7 @@ picture-skateboarder
 smoke-sooty
 engine
 train-building
-town-thi-which
+town-this-which
 clock-image
 sky-color
 
@@ -8658,7 +8658,7 @@ subway
 bench
 car
 color-traffic
-city-thi-what
+city-this-what
 people-how
 picture-set
 camera
@@ -8693,11 +8693,11 @@ cinnamon
 spoon
 picture-website
 color-woman
-tenni court
+tennis court
 foreground-woman
-city-thi-what
+city-this-what
 car-bridge
-river thame
+river thames
 laptop-object-side
 object
 view
@@ -8837,7 +8837,7 @@ umbrella
 environment
 sun
 car
-where-thi
+where-this
 train station
 room
 color-bed-comforter
@@ -8879,7 +8879,7 @@ male-female
 cover
 
 
-tenni-ball
+tennis-ball
 stripe-short
 train
 train
@@ -8917,7 +8917,7 @@ food-kind
 
 
 thing
-mattres
+mattress
 truck
 neighborhood
 skier-wipeout
@@ -8935,12 +8935,12 @@ food-photo
 something
 picture-anyone-stand
 shirt-brand
-man-thi-a
+man-this-a
 
 jacket
 lady-drink
 chair
-smartphone-table
+smartphones-table
 bus-segment
 bus-color
 mean-sign
@@ -8948,7 +8948,7 @@ giraffe
 animal-picture
 giraffe-direction
 color-photo
-city-thi-what
+city-this-what
 photo
 hat-animal-child
 eat-child
@@ -9019,7 +9019,7 @@ color-plate
 flavor
 food-table-kind
 bag-brown
-tenni
+tennis
 shirt-color
 emblem-green
 helmet
@@ -9096,14 +9096,14 @@ salad-fork
 color-tablecloth
 look
 cast
-fishes
+fishing
 cake
 frost
 broccoli-background
 
 tower-hole
 bell
-jesu-statue-picture
+jesus-statue-picture
 flight-stair
 paint-strip-step
 window-pane-middle
@@ -9374,7 +9374,7 @@ picture
 stove-color-number
 stove
 room
-ceil-hang
+ceiling-hang
 bedroom-castle
 toddler-brand-toothbrush
 tooth-brush-child
@@ -9503,7 +9503,7 @@ vehicle-kind
 sign
 bus-color
 sport
-tenni-earring
+tennis-earring
 green-fence
 bench
 season-it-what
@@ -9583,7 +9583,7 @@ color-piece
 trailer-animal-kind
 trailer-stand
 truck-trailer
-glass-read-bifocal
+glass-read-bifocals
 female
 shirt-woman
 kid-hipster
@@ -9658,13 +9658,13 @@ woman-hand
 cat
 machine
 machine
-kite-multus
+kite-multi
 woman
 park
 animal-stand
 horn-animal
 hay-picture
-man-thi-an-or
+man-this-an-or
 color-hair
 computer-expert
 
@@ -9695,7 +9695,7 @@ plant-headboard
 room
 floor-kind
 photo
-white-thi-and
+white-this-and
 photo
 fork
 drink
@@ -9723,8 +9723,8 @@ dog-look
 dog
 tile-color
 woman-room
-used
-person-on-thi-what
+use
+person-on-this-what
 conversation
 girl
 
@@ -9742,8 +9742,8 @@ guy
 pillow
 room
 poster-wall
-person-thi-what
-ear
+person-this-what
+ears
 
 bird
 bird
@@ -9811,7 +9811,7 @@ bird
 shelf-display
 skirt-homemade
 skirt-bottom
-build-city-the-thi
+build-city-the-this
 clock
 clock tower
 duck
@@ -9858,7 +9858,7 @@ saloon
 picture
 table
 nationality
-table-thermo
+table-thermos
 fruit-plate-kind
 table
 bowl-pattern
@@ -9920,7 +9920,7 @@ cat
 cat
 squirrel-chair
 food-plate
-thi-you-what-with
+this-you-what-with
 pizza
 eye
 comb-someone
@@ -9938,7 +9938,7 @@ minnie-dot
 color-child-eye
 child
 vase-flower-size
-country-thi-what
+country-this-what
 picture
 skateboarding-trick
 skateboarding
@@ -10041,9 +10041,9 @@ window
 tile-orange
 seafood-average
 color-table-mug
-inside-outside-thi-or
+inside-outside-this-or
 sea
-white-grind-thi-why
+white-grind-this-why
 
 thing
 surf
@@ -10081,7 +10081,7 @@ girl
 sign
 skater
 
-season-thi-what-would
+season-this-what-would
 activity
 tree-cover
 windmill
@@ -10137,7 +10137,7 @@ surf
 color
 hand
 green-letter
-ear-picture
+ears-picture
 skateboarding
 boy
 picture
@@ -10202,7 +10202,7 @@ shore-beach
 umbrella
 people-how
 track-pebble
-mos-tree
+moss-tree
 train-portion-call
 edge
 animal
@@ -10217,14 +10217,14 @@ tail-fur-cat-pattern
 cat-object
 breed-cat
 sky-cloud
-city-thi-what
+city-this-what
 
 track
 train-freight train
 night time
 magazine-photo-office build
 morning
-city-thi-what
+city-this-what
 animal
 animal
 tree-photo
@@ -10356,7 +10356,7 @@ track-train
 train
 goggle
 crazy-thing
-where-thi
+where-this
 elephant
 
 animal-photo
@@ -10370,7 +10370,7 @@ bathroom-anyone
 bathroom-racist
 toilet-paper
 boat
-fishes
+fishing
 skier-direction
 dog-mouth
 breed-dog
@@ -10381,7 +10381,7 @@ color-bottom
 hang
 earring-woman
 
-inside-house-a-thi
+inside-house-a-this
 flower-vase-color
 hang-wall
 perspective-photo
@@ -10389,7 +10389,7 @@ drive
 drive
 field
 bird
-city-a-thi
+city-a-this
 woman-skateboard
 skate-shoe
 sidewalk-rider-skateboard
@@ -10398,7 +10398,7 @@ slice-cut
 cake-thru
 curtain-photo
 head
-where-thi
+where-this
 
 shirt-tee-color-surfboard
 man-outside-the
@@ -10469,7 +10469,7 @@ harbor-average-home-fall
 eat
 table
 bridge
-build-where-thi
+build-where-this
 
 clock
 university-name-of-what-the
@@ -10487,8 +10487,8 @@ attic
 jug-milk
 light-on-the
 clock-tower
-city-you-thi-what-would
-structure-century-thi-what-during
+city-you-this-what-would
+structure-century-this-what-during
 bench-arm
 
 
@@ -10546,7 +10546,7 @@ vase-shape
 mckenzie-dog-spud
 color-blanket
 coach-dog
-country-city-thi-or-the
+country-city-this-or-the
 bicycle-picture
 litter
 toilet
@@ -10560,7 +10560,7 @@ wall
 case-bed-plastic
 tie
 tie-color-stand
-ceil-hang
+ceiling-hang
 kitchen
 child
 floor
@@ -10623,7 +10623,7 @@ laptop-kind
 cell phone
 phone
 picture
-party-thi-a
+party-this-a
 location
 bus-board
 bus-light
@@ -10657,7 +10657,7 @@ pumpkin
 umbrella
 culture-umbrella
 color-umbrella
-calory-food
+calories-food
 color-umbrella
 bottom-photo-letter
 green-mushroom
@@ -10699,7 +10699,7 @@ plant-color
 floor-kind
 suitcase-shoe
 suitcase
-team-thi-what
+team-this-what
 color-fence
 sport
 rock
@@ -10744,7 +10744,7 @@ train
 seagull
 sail-boat-seagull-danger
 sunny
-tenni-ball-cause-boy
+tennis-ball-cause-boy
 game-what
 adult-child
 girl-hair-pigtail
@@ -10759,7 +10759,7 @@ dog-leash
 team-people-on-the
 hat-boy
 shade
-structure-type-of-thi-what
+structure-type-of-this-what
 
 plant-foreground
 fight-zebra
@@ -10789,7 +10789,7 @@ jacket-suit
 plane-color
 gear-land
 object
-might-event-thi-what
+might-event-this-what
 motorcycle-color-scene
 motorcycle
 craig-chillin
@@ -10900,8 +10900,8 @@ plant-kind
 green-plate-thing
 table
 green-food
-model-a-thi
-model-of-a-thi-what
+model-a-this
+model-of-a-this-what
 track-train-parallel
 photographer
 someone-path
@@ -10920,7 +10920,7 @@ shell-size
 demolition man
 photo
 weather
-lawn-basi
+lawn-basis
 plane
 golf-cart-color
 plane-desert
@@ -10998,7 +10998,7 @@ zebra-baby
 animal
 light
 food-kind
-type-place-of-thi-what
+type-place-of-this-what
 animal-kind
 animal
 animal
@@ -11101,7 +11101,7 @@ bear
 street
 truck-delivery-street
 sign
-levus-instrument-kind
+levi-instrument-kind
 ethnicity
 microphone-lady
 floor
@@ -11124,7 +11124,7 @@ cheese
 
 clock
 clock-bottom
-thi-what
+this-what
 fruit-kind
 
 minion
@@ -11142,7 +11142,7 @@ airline
 airline
 bear
 image-bear
-night-thi-at
+night-this-at
 table
 
 color-napkin
@@ -11210,7 +11210,7 @@ fence-background
 gender-child
 watch
 watch
-game-man-thi-what
+game-man-this-what
 hat
 glass
 beer-sign-kind
@@ -11223,7 +11223,7 @@ scene
 window-room
 
 sunset
-water-body-a-thi
+water-body-a-this
 bird-photo
 bird-sleep-hill
 bird-picture
@@ -11255,7 +11255,7 @@ room
 appliance
 color
 glass
-wall-christma light
+wall-christmas light
 tie-color
 shirt-woman-letter
 look
@@ -11297,7 +11297,7 @@ color-pole-sign
 time-it-what
 sign
 lane-traffic-bridge
-day-time-of-thi-what
+day-time-of-this-what
 bridge
 exercise-value
 bicycle-count
@@ -11741,7 +11741,7 @@ car
 truck-color
 bicycle-color
 sport
-tenni-racket-wilson
+tennis-racket-wilson
 ball-hit
 shake-hand
 game-they-what
@@ -11838,7 +11838,7 @@ everyone-surfboard
 beach-wave
 color
 room
-ceil-string-hang
+ceiling-string-hang
 dog
 color-rock-hydrant
 plant-scene
@@ -11856,7 +11856,7 @@ shoe-brand
 
 
 day-time-of-what-it
-thi-or
+this-or
 breakfast-restaurant
 toast-piece
 egg
@@ -11887,7 +11887,7 @@ animal-slide
 woman
 shirt-woman
 color-hair
-christma time
+christmas time
 car
 car-color
 cat
@@ -11973,7 +11973,7 @@ ski
 color-outfit
 clay
 game-man-the-what
-tenni-match
+tennis-match
 banana-sell
 banana
 square-floor
@@ -11981,7 +11981,7 @@ commuter-train-picture
 truck-color
 snow-vehicle
 color-photo
-ceil-hang
+ceiling-hang
 pair-shoe
 laptop-brand
 chair-room
@@ -12058,7 +12058,7 @@ batman-photo
 
 train
 floor-photo-kind
-country-thi-what
+country-this-what
 person-where-the
 animal
 umbrella
@@ -12084,7 +12084,7 @@ giraffe
 giraffe-picture
 vehicle-kind
 car-color-cat
-inside-outside-thi-or
+inside-outside-this-or
 sign
 clock
 landmark
@@ -12094,9 +12094,9 @@ wine-wall-material
 plane
 sky
 plane-direction
-where-thi-at
+where-this-at
 
-fishes
+fishing
 kind
 clock
 color
@@ -12108,7 +12108,7 @@ elephant-picture
 elephant
 hood-write
 truck-object
-road-field-a-or-thi
+road-field-a-or-this
 animal-continent
 zebra
 elephant-stand
@@ -12127,10 +12127,10 @@ color-cabinet
 seat
 color-wall
 material-kind
-neckty
+neckties
 fun-look
 
-event-thi-what
+event-this-what
 wall-sign
 anyone
 logo-hat
@@ -12254,7 +12254,7 @@ bed
 image-teddy bear
 picture
 food
-deliciou-look
+delicious-look
 bread
 woman
 wine-taste-test-drink
@@ -12266,7 +12266,7 @@ bedroom-color
 lamp-room
 cartoon-room
 photo
-outside-thi
+outside-this
 occasion
 color-face
 photo
@@ -12290,7 +12290,7 @@ rack-garment
 picture
 picture-letter
 beach
-art-type-of-thi-what
+art-type-of-this-what
 elephant
 light-color
 sign
@@ -12332,8 +12332,8 @@ cake
 color-cake
 hair
 photo
-tenni team
-white-thi-and
+tennis team
+white-this-and
 foreground-word-vandalism-write
 bus-word
 color-pole
@@ -12541,7 +12541,7 @@ document
 game-what
 scoreboard
 tree
-man-thi
+man-this
 
 eyebrow
 swim
@@ -12558,7 +12558,7 @@ building-advertisement-beer
 scene
 elephant-clock
 elephant-stand
-build-a-thi
+build-a-this
 dog-frisbee
 reflection
 dog
@@ -12585,7 +12585,7 @@ flower-color
 weather
 
 weather
-orlean
+orleans
 woman
 shirt-color-woman
 persian-carpet-floor
@@ -12632,7 +12632,7 @@ store-relationship
 window-store-sign
 store
 stream-bear
-mos-rock
+moss-rock
 color-bear
 sponge
 faucet
@@ -12739,7 +12739,7 @@ bear
 stove-burner
 cabinet-color
 kitchen
-man-where-thi-at
+man-where-this-at
 hurricane
 job
 boat
@@ -12861,7 +12861,7 @@ kitchen
 kitchen-picture
 stop-need
 stop-sign
-thi-what
+this-what
 egg
 woman-how
 
@@ -12895,7 +12895,7 @@ air-grind-man-on-or-the
 surf-wave
 sport
 
-right-water-side-body-person-of-on-thi-or-the
+right-water-side-body-person-of-on-this-or-the
 cargo-horse
 horse
 strap-surfboard
@@ -12913,7 +12913,7 @@ letter-color
 guy
 pant-everyone
 photo
-dropping-elephant
+droppings-elephant
 elephant
 foreground-rock-boulder
 rider-helmet
@@ -12924,7 +12924,7 @@ guy-look
 shirt-color
 boy-hit
 bleacher
-practice-thi
+practice-this
 airline
 airplane-land
 light-on-the
@@ -12945,7 +12945,7 @@ train-number
 platform
 animal-product
 bowl-fruit
-fungu-garnish
+fungus-garnish
 lake
 surfboard
 background
@@ -13110,8 +13110,8 @@ refrigerator
 refrigerator
 winter-scene
 skier-wall
-olympic
-tenni-match
+olympics
+tennis-match
 color-hair-woman
 photo
 salad-topping
@@ -13147,7 +13147,7 @@ car
 picture
 
 clock
-app-iphone-carb-diet
+apps-iphone-carb-diet
 kitchen-stand
 jean
 light
@@ -13165,7 +13165,7 @@ plant-photo
 shoe
 activity
 leg-board
-electronic-desk
+electronics-desk
 tissue-color-box
 picture-monitor
 foreground-activity
@@ -13175,7 +13175,7 @@ elephant
 elephant-zoo
 elephant-tusk
 grass
-tenni-racket-photo-brand
+tennis-racket-photo-brand
 sunglass
 iconography-painting
 lily-bouquet-stargazer
@@ -13203,7 +13203,7 @@ bird
 bird
 bench-color
 sky-color
-outdoor-thi-or
+outdoors-this-or
 horse
 tower
 ride-horse
@@ -13235,7 +13235,7 @@ stove-gas
 stove-need
 appliance-knob
 who
-tenni
+tennis
 
 eat-horse
 color-horse
@@ -13245,7 +13245,7 @@ animal
 animal
 shirt-someone
 sun
-where-thi
+where-this
 bat-bag
 hand
 foot
@@ -13255,8 +13255,8 @@ bus
 wall
 object
 graffiti-photo
-shirt-tenni-color
-tenni-anger
+shirt-tennis-color
+tennis-anger
 man-how-the
 street
 color-stop
@@ -13265,7 +13265,7 @@ toilet
 toilet-anything
 toilet
 skateboarding
-inside-build-a-thi
+inside-build-a-this
 graffiti-skate park
 bottom
 spotlight
@@ -13282,7 +13282,7 @@ color-candle
 rank
 conversation
 marine
-game-thi-what
+game-this-what
 pant-batter-color
 stand
 sheep
@@ -13328,7 +13328,7 @@ elephant
 trunk-elephant
 elephant-stand
 hand
-user-cell-phone-claustrophobium
+user-cell-phone-claustrophobia
 shirt-color
 finger-photo
 food
@@ -13350,7 +13350,7 @@ scene-decade
 photo
 stuff-meal
 fry-kind
-pastum-dish
+pasta-dish
 room-kind
 color-trash
 bathroom-bathtub
@@ -13364,7 +13364,7 @@ animal
 ear-animal-thing-purpose
 dairy-milk-animal-product
 seat-stand
-play-team-man-for-thi-what
+play-team-man-for-this-what
 hat
 hang-door-towel-color
 toothbrush
@@ -13552,7 +13552,7 @@ time-it-what
 wood-headboard
 child-the
 picture
-where-thi
+where-this
 
 battery-device
 
@@ -13577,7 +13577,7 @@ item-plate
 apple-orange-plate
 vegetable-fruit-omelet
 plane
-where-thi
+where-this
 airline
 grass
 animal-kind
@@ -13614,11 +13614,11 @@ animal
 grass-animal-stand
 toilet-roll-paper
 seat-toilet
-where-thi
+where-this
 
 clock
 photograph
-country-thi-what
+country-this-what
 bus-destination
 bus
 pedestrian
@@ -13628,14 +13628,14 @@ color-chair
 meal-human
 bird
 desktop-laptop-computer
-guinnes-poster-animal-kind
+guinness-poster-animal-kind
 
 light
 lane-traffic-light
 light-traffic
 utensil
-pastum-plate-kind
-pastum-plate
+pasta-plate-kind
+pasta-plate
 truck
 truck-bed-cover
 
@@ -13695,7 +13695,7 @@ toothbrush
 bathroom-hotel
 sandwich-kind
 pepper
-olife-sandwich
+olives-sandwich
 activity
 summer
 overcast
@@ -13709,7 +13709,7 @@ giraffe
 animal
 giraffe
 train
-day-time-thi
+day-time-this
 filter-picture
 computer
 computer
@@ -13738,7 +13738,7 @@ runner-color-table
 table-individual-set
 table
 vehicle
-tenni-ball
+tennis-ball
 color-play area
 sport
 broom-room
@@ -13752,7 +13752,7 @@ picture
 winter
 wrist
 animal
-rhinocero
+rhinoceros
 fuel-vehicle-image
 house-photo
 car-substance
@@ -13776,13 +13776,13 @@ donut
 mat
 batter-uniform
 hitter
-game-thi-what
+game-this-what
 month
 mouse
 desk-rubber band
 fun-girl
 sport-girl
-tenni-racquet-letter
+tennis-racquet-letter
 flag-picture
 wall
 color-tree
@@ -13816,7 +13816,7 @@ picnic
 shrub-yard
 roof-tile
 trash
-where-thi
+where-this
 horse
 horse
 hang-fridge
@@ -13858,7 +13858,7 @@ fancy
 cow-relationship
 cow
 wagon
-inside-outside-thi-or
+inside-outside-this-or
 time-it-what
 clock-hang
 pizza-oven
@@ -13868,7 +13868,7 @@ cake
 cake-dish-shape
 dish-gluten
 
-state-where-thi
+state-where-this
 
 digit-sum-corner-sign
 they
@@ -13931,7 +13931,7 @@ flag
 photo-street
 sign-street-kind
 time-it-what
-build-of-thi-what
+build-of-this-what
 palace
 plane
 fighter-plane
@@ -13999,7 +13999,7 @@ boy-arm
 toilet
 toilet-paper
 toilet-room
-city-a-thi
+city-a-this
 color-train
 overhead-wire
 ski-photo
@@ -14007,7 +14007,7 @@ anyone-snowman
 disney movie
 color-bus
 bus-call
-bus-belhu
+bus-belhus
 pollution
 picture-sailboat
 bird
@@ -14116,13 +14116,13 @@ strike
 color-frisbee
 shoe-picture-anyone
 people-where-the
-calory-plate
+calories-plate
 vegetarian-meal
 color-plate
 dad-boy
 boy
 scissor-table
-tenni-shoe-girl
+tennis-shoe-girl
 child
 lane
 duck-dog
@@ -14160,13 +14160,13 @@ guy-sky
 color-board
 arrow-direction-sign
 semi-truck
-light-for-thi-what
-finish-sandwich-girl-hughe
+light-for-this-what
+finish-sandwich-girl-hughes
 picture
 sandwich-hand-hold
 calorie-meal
 plate
-plate-rule-break-atkin diet
+plate-rule-break-atkins diet
 bird-kind
 bird
 weather
@@ -14338,7 +14338,7 @@ plane
 bed-cat
 cat
 animal-bed
-position-thi-what
+position-this-what
 pole
 shadow
 leave-gutter
@@ -14354,7 +14354,7 @@ pole-woman-call
 
 technology
 clock
-build-type-of-thi-what
+build-type-of-this-what
 bird-eye view
 camera-brand
 keyboard-item
@@ -14379,7 +14379,7 @@ color-shoe
 man-where-the
 room
 paint
-ceil-kitchen-hang
+ceiling-kitchen-hang
 car-street
 car
 color-street-awning
@@ -14430,14 +14430,14 @@ guy-sunglass
 knee
 woman-drink
 advertising
-tenni-tournament-match
+tennis-tournament-match
 giraffe
 bamboo-stick
 animal-zoo
 bed
 room
 clock
-home-a-thi
+home-a-this
 screen-computer
 laptop
 picture-night time
@@ -14445,7 +14445,7 @@ woman-vision
 woman-picture-selfie
 motion
 game-they-the
-wius
+wii
 bus
 bus
 street
@@ -14480,7 +14480,7 @@ girl
 girl-stand
 girl
 fireplace
-ceil
+ceiling
 match-pillow-chair-bed
 motorcycle-street
 color-trailer
@@ -14517,14 +14517,14 @@ man-country-what-these
 uniform
 bridge
 unite
-where-thi
+where-this
 color-photographer
 hit-photographer-snowboarder
 color-stick
 arm
 thing
 graze-sheep
-deliciou-bit-cheese-bacon
+delicious-bit-cheese-bacon
 broccoli
 meal-carb
 sandwich-sign-board
@@ -14552,7 +14552,7 @@ fun-look
 glass-boy
 bench-color
 
-season-thi-what
+season-this-what
 glass
 tv-cat
 color-cat
@@ -14572,7 +14572,7 @@ night time
 toilet
 beer
 seat
-ches
+chess
 tournament
 spectacle
 sunburn
@@ -14612,7 +14612,7 @@ motorcycle-color
 motorcycle
 motorcycle
 crowd
-man-thi-what
+man-this-what
 color-headband
 coach-girl
 picture-room
@@ -14675,7 +14675,7 @@ difference
 surfboard
 color-surfboard
 hand
-season-thi-what
+season-this-what
 toddler
 short-color-woman
 woman-photo-reason-red-eye
@@ -14762,7 +14762,7 @@ elephant
 color-hat
 sunglass
 pearl
-family-a-thi
+family-a-this
 ethnicity
 cat
 brown-box
@@ -14809,7 +14809,7 @@ saxophone
 
 light-street
 turn
-white-thi-and
+white-this-and
 
 
 farmland
@@ -14847,7 +14847,7 @@ cat-stand
 tv
 ball
 pitcher-sleeve-color
-game-thi-what
+game-this-what
 bird-picture
 bird-color
 
@@ -14885,7 +14885,7 @@ color-food-plate
 plant
 container
 birthday
-fishes-cake
+fishing-cake
 food
 animal-picture-kind
 goat-foot
@@ -14923,7 +14923,7 @@ noon-hour
 skateboard-dog
 skateboard-dog
 floor-material-kind
-tenni-match
+tennis-match
 ball-hit
 shirt-color
 color-hair
@@ -14934,7 +14934,7 @@ vegetarian-meal
 plate-pizza
 airplane
 plane-light
-day-time-of-thi-what
+day-time-of-this-what
 
 mountain-snow
 
@@ -14942,7 +14942,7 @@ dog
 campsite
 mode-picture-transportation
 planter
-house-a-thi
+house-a-this
 coffee-room-shape-table
 giraffe-friend
 giraffe
@@ -14969,7 +14969,7 @@ lady
 skate
 ski-wood
 plane-zebra-walk
-where-thi
+where-this
 zoo
 eat-food
 color
@@ -15086,7 +15086,7 @@ pant-color-boy
 horse-picture
 horse-direction
 carriage-horse
-season-thi-what
+season-this-what
 photo
 object
 vase
@@ -15120,7 +15120,7 @@ graze-zebra
 zebra-photo-direction
 dog-german shepherd
 bed-headboard
-ear-puppy-length
+ears-puppy-length
 bike-color
 time-it-what
 track-run-vehicle-parallel-kind
@@ -15145,7 +15145,7 @@ watch
 sign
 clock
 body
-build-a-thi
+build-a-this
 sundown-hour
 time-it-what
 dog
@@ -15235,7 +15235,7 @@ picture
 watch
 
 
-city-a-thi
+city-a-this
 sky
 boat-kind
 motorcycle
@@ -15254,7 +15254,7 @@ animal
 animal
 color-elephant-tusk
 sneaker-kind
-person-on-thi-what
+person-on-this-what
 boot
 fruit
 
@@ -15276,7 +15276,7 @@ bottle
 bench
 
 beam-tree-picture
-ceil-light
+ceiling-light
 
 cab-taxi
 
@@ -15336,7 +15336,7 @@ breed-dog
 color-floor
 tour-bus-boat-color-word
 license-plate
-city-a-thi
+city-a-this
 cow
 grass-eat-cow
 cow
@@ -15354,7 +15354,7 @@ shoe
 woman
 
 restaurant
-restaurant-mcdonald
+restaurant-mcdonalds
 bedroom-pizza-kitchen
 box
 box
@@ -15477,7 +15477,7 @@ color-plate-hotdog
 plate
 watercraft-motion
 board
-body-water-person-of-a-thi
+body-water-person-of-a-this
 
 object
 pant-color
@@ -15489,13 +15489,13 @@ color-train
 car-train
 stop-sign
 photo-awning
-city-thi-what
+city-this-what
 helmet
 
 sign-phone company
 clock
 light-color
-church-thi-a-can
+church-this-a-can
 kite-shape
 weather-picture
 kite
@@ -15509,7 +15509,7 @@ cook
 appliance
 pizza-topping
 pant-color-skateboarder
-where-thi
+where-this
 
 picture
 fruit-photo-type
@@ -15593,7 +15593,7 @@ boy
 garage-car
 twin-pic
 fruit-plastic
-where-thi
+where-this
 kiwi
 banana-bunch
 liquid-sale
@@ -15616,7 +15616,7 @@ color-hydrant
 sport-kind
 
 number
-ceil
+ceiling
 room
 shape-table
 bird
@@ -15773,10 +15773,10 @@ grill
 patio-entryway
 couch
 glass
-age-person-thi-what
+age-person-this-what
 sunglass
 room
-ceil
+ceiling
 color-wall
 sign
 need
@@ -15821,7 +15821,7 @@ toe-shoe-woman
 woman-stand
 stove-steel
 street
-language-thi-what
+language-this-what
 sign
 spectator
 fence-kind
@@ -15831,7 +15831,7 @@ animal
 color-animal-blanket
 match
 sport
-color-tenni court
+color-tennis court
 bench-photo
 boat
 tree-foreground
@@ -15859,7 +15859,7 @@ child
 clock
 clock-bottom-sign
 color
-electronic-ipad
+electronics-ipads
 sleeve-shirt-girl
 computer-kind
 flower
@@ -15885,7 +15885,7 @@ board
 sky-color-background
 microphone-speak
 pink-parliament
-group-people-a-of-thi-would
+group-people-a-of-this-would
 food
 donut
 hand
@@ -15932,7 +15932,7 @@ number
 bus
 truck
 
-city-thi-what
+city-this-what
 mean-stop-sign
 ride-character-van
 bumper
@@ -15945,7 +15945,7 @@ shirt-color
 picture
 vase
 fireplace
-person-home-a-thi
+person-home-a-this
 shirt-woman
 game-they-what
 bat-color
@@ -15996,7 +15996,7 @@ color-plate
 set
 
 
-tenni-batter-shoe-brand
+tennis-batter-shoe-brand
 day-time-of-what-it
 stop-sign-side
 weather-picture
@@ -16107,7 +16107,7 @@ seat-toilet-wood
 color-trash
 bush-color
 zebra
-day-time-of-thi-what
+day-time-of-this-what
 eat-baby-hand
 hair-child-lot
 mother-kitchen-child-table
@@ -16332,17 +16332,17 @@ pizza-green-veggie
 meat-pizza
 lady
 woman-check-buxom
-wius-woman
+wii-woman
 
 food
-calory-food
+calories-food
 dog
 bench
 human-picture
 bus-tourist
 passenger-belt-seat
 passenger-bus
-ear-elephant
+ears-elephant
 color-elephant
 photo
 stadium
@@ -16436,7 +16436,7 @@ tie-color
 photo
 finger-ring
 fence-cow
-city-the-thi
+city-the-this
 foreground-picture
 brickwork-pattern
 bus
@@ -16543,7 +16543,7 @@ pavement-word
 cow-stand
 cow-face
 animal
-thi-what
+this-what
 wall
 stand-clothe-choice
 monitor
@@ -16557,7 +16557,7 @@ hair
 laptop-sticker
 toilet-tree
 lid
-outside-thi
+outside-this
 bird
 beak-bird-color
 color-branch
@@ -16613,7 +16613,7 @@ egg-bucket
 apron
 color-orange
 guy-stand
-man-position-thi-what
+man-position-this-what
 fastball
 umbrella
 color-umbrella
@@ -16692,7 +16692,7 @@ apple
 bike-bottle
 color-clothe
 skier-goggle-eye
-season-thi-what
+season-this-what
 vegetable-recipe
 vegetable-slice-cry
 vegetable-basket
@@ -16708,7 +16708,7 @@ swim pool
 dessert
 fruit-dessert
 cake-kind
-luggage-ceil
+luggage-ceiling
 stuff
 cart
 sun
@@ -16726,7 +16726,7 @@ driver-appearance
 color-cow
 femininity-attribute
 animal-object-kind
-church-thi-a
+church-this-a
 stone
 clock
 wind
@@ -16756,7 +16756,7 @@ window
 
 clock-color
 
-calory-meal
+calories-meal
 fry-rice
 cup-beverage-kind
 scene
@@ -16788,7 +16788,7 @@ animal-eyelash
 zebra-eat
 bowl-green-thing
 cuisine-soup
-spaghettus-image
+spaghetti-image
 mouse-desk-computer
 lamp
 marble-countertop
@@ -16810,7 +16810,7 @@ pizza-pepperoni
 air-man-the-on
 pant-color
 
-grind-person-the-on-thi
+grind-person-the-on-this
 ski
 glove
 greene st
@@ -16866,7 +16866,7 @@ horizon
 surfer
 skateboarding
 short-color
-person-thi
+person-this
 woman-stand
 where-she
 woman
@@ -16921,7 +16921,7 @@ platform-stand
 train-flag
 weather-kind
 word-train
-tenni-racket-letter
+tennis-racket-letter
 sport
 
 retro
@@ -16938,7 +16938,7 @@ elephant-background-one
 tree-animal
 fruit-kind
 banana-color
-canada-thi
+canada-this
 lady-hand
 
 focus
@@ -16950,7 +16950,7 @@ sky
 building-picture
 ski-child-teach
 skier
-season-thi-what
+season-this-what
 people-how
 snow
 tank
@@ -17034,7 +17034,7 @@ fruit
 fruit
 bat-hand
 ball-hit
-game-thi-what
+game-this-what
 hand
 person-hand
 gum-stick
@@ -17053,7 +17053,7 @@ kitchen
 soup
 color-dish
 tree-item-plate
-tenni-ball-picture
+tennis-ball-picture
 fence
 photo
 ride-train
@@ -17125,7 +17125,7 @@ shirt-color
 kite
 
 picture-date
-build-thi-what
+build-this-what
 steeple
 photographer-street
 jacket-shape
@@ -17165,7 +17165,7 @@ marking-post-kind
 object
 scene
 mouth
-game-thi-what
+game-this-what
 hat
 kitchen
 woman
@@ -17425,7 +17425,7 @@ bed-room
 scenery-street-cross-name
 mall-sign
 marking
-thi-what
+this-what
 food
 utensil
 seat-toilet
@@ -17454,7 +17454,7 @@ picture
 zebra
 stripe-umbrella-star
 shirt-male-female
-shoulder-color-girl-bag-multus
+shoulder-color-girl-bag-multi
 plane
 weather-kind
 floor
@@ -17524,7 +17524,7 @@ bedroom-someone
 time-it-what
 office build
 clock
-day-thi-the-during
+day-this-the-during
 sky
 arrow
 boot-color-rider
@@ -17538,7 +17538,7 @@ tree
 mountain
 
 anyone
-inside-thi
+inside-this
 eat
 fat-food-lot
 hat
@@ -17654,7 +17654,7 @@ zebra-picture
 shrub
 mountain
 seat-view
-team-thi-what
+team-this-what
 nike-shoe
 
 machine
@@ -17696,7 +17696,7 @@ picture
 fireman
 kind
 green-sign-letter
-where-thi
+where-this
 track
 tree-picture
 bear
@@ -17705,7 +17705,7 @@ elephant
 being-sentient-cage
 corner-color-wall-spot-hand
 food
-calory-dish
+calories-dish
 meat-animal
 elephant-color
 elephant-stand
@@ -17749,7 +17749,7 @@ light-a-on
 girl-hand
 food-plate
 finger-girl
-wius
+wii
 
 tv
 zebra
@@ -17820,14 +17820,14 @@ fruit-green
 monkey-banana
 skier-tree-kind
 pant-color
-grind-person-the-on-thi
-tenni-nike-t-shirt
+grind-person-the-on-this
+tennis-nike-t-shirt
 color
 color-racquet
 interior
 house-a
 seat
-hollywood-monica-santum-bl
+hollywood-monica-santa-bl
 color
 street
 cheese-photo-type
@@ -17881,7 +17881,7 @@ boy
 
 guy-balance
 build-a
-top-person-how-the-thi-to
+top-person-how-the-this-to
 cover
 sky-color
 baby-hand
@@ -17899,7 +17899,7 @@ gear-surfer
 arrow
 disk-item
 light-color-arrow
-tenni-ball
+tennis-ball
 photo
 skirt-color-girl
 kite
@@ -18022,12 +18022,12 @@ chair-chance
 room
 sink-kind
 window
-market-a-thi
+market-a-this
 automobile-vendor
 banana
 baseball-mouth
 bat
-game-night-thi-a
+game-night-this-a
 photo
 bus
 photo-edge-kind
@@ -18218,7 +18218,7 @@ ball-hit
 batter-jersey-color
 sport
 eat
-state-thi-what
+state-this-what
 color-plate
 boy
 catch-frisbee
@@ -18298,7 +18298,7 @@ dog
 screen
 controller-hand
 candle-spot
-television-a-thi
+television-a-this
 tube
 television-top-the-on-what
 sport
@@ -18325,7 +18325,7 @@ glass
 pillow-dog
 floor
 turtle-dog
-thermo
+thermos
 room
 room-measure-anything
 zone
@@ -18378,7 +18378,7 @@ vase
 color-wall
 kite
 
-day-time-of-thi-what
+day-time-of-this-what
 rider-kind
 rider-fall
 suspect-helmet-rider-someone-advantage-gain
@@ -18397,7 +18397,7 @@ child
 harness-cow
 cow
 horn-cow
-build-a-thi
+build-a-this
 clock
 sky-color
 photograph
@@ -18499,7 +18499,7 @@ kitchen-bottom
 food-look
 food
 stuff-doughnut
-city-thi-what
+city-this-what
 train-stand
 photo
 shelve-picture-square
@@ -18516,7 +18516,7 @@ mechanism-picture-safety
 train
 stop
 sky-color
-country-city-the-or-thi
+country-city-the-or-this
 cake
 cake
 ingredient-orange-bag-table
@@ -18623,7 +18623,7 @@ fun-wave
 
 ocean
 phone
-person-where-thi
+person-where-this
 phone
 
 
@@ -18657,7 +18657,7 @@ animal-beach-kind
 animal
 bird-sound
 bird
-outdoor-thi
+outdoors-this
 airport
 land-plane
 airborne-plane
@@ -18750,7 +18750,7 @@ kid-footwear-background
 eat-woman
 people-how
 photo
-or-thi
+or-this
 teddy bear
 hobby-bear
 display
@@ -18778,7 +18778,7 @@ package
 police-america
 job
 donkey-police
-country-thi-what
+country-this-what
 signpost
 arrow
 color-snow
@@ -18808,7 +18808,7 @@ color-bracelet
 rope
 
 color
-state-thi-what
+state-this-what
 ba-stand
 time-it-what
 
@@ -18829,7 +18829,7 @@ bus-light
 sport
 hat
 outfit-color-woman
-language-book-thi-what
+language-book-this-what
 bench-park
 exclaim
 skateboard
@@ -18901,8 +18901,8 @@ bush-flower-row
 kite-word
 kite
 kite-shape
-game-thi-what
-shirt-tenni-color
+game-this-what
+shirt-tennis-color
 color-green
 cat
 cat
@@ -18963,7 +18963,7 @@ grass-blade-hydrant
 grass-cut
 baseball-bat
 umpire
-game-night-day-thi-a-or
+game-night-day-this-a-or
 light-on-what
 traffic-picture
 write-sign
@@ -18985,7 +18985,7 @@ bird-sky
 vegetable-orange
 vegetable
 vegetable
-city-thi-what
+city-this-what
 glass-woman
 terminal
 pole-telephone-scene
@@ -19042,7 +19042,7 @@ dust
 color
 gladiator-tussle
 shirt
-day-time-thi
+day-time-this
 color-stoplight
 exposure-camera
 watch-kind
@@ -19071,7 +19071,7 @@ wall-color
 sink-storage
 color-crown
 fireplace-room
-fireplace-christma card
+fireplace-christmas card
 vegetable-board
 green-knife-object
 board
@@ -19089,7 +19089,7 @@ horse
 carriage
 fireplace
 television-the-or-on
-wius-controller
+wii-controller
 
 dress
 sport
@@ -19211,7 +19211,7 @@ water-man-the
 watch-rolex
 surf-plan
 
-tenni
+tennis
 short-everyone
 plate-paper
 dish-dog-giant
@@ -19233,14 +19233,14 @@ phone
 color-table
 game-what
 surface
-tenni-racket-woman
+tennis-racket-woman
 fall
 
 hand
 
 flower-color
 animal-photo
-church-thi-a
+church-this-a
 clock-face
 portal-tower
 couple
@@ -19318,7 +19318,7 @@ calm
 zoo-animal
 giraffe
 eat-giraffe
-ear
+ears
 commentator
 man-how
 girl
@@ -19379,7 +19379,7 @@ street-sign
 green
 color-hydrant
 surfer
-fishes
+fishing
 beach
 plane
 shoot
@@ -19396,8 +19396,8 @@ plane
 train
 color-train
 train
-person-should-thi
-person-thi-who
+person-should-this
+person-this-who
 phone
 route-bus
 vehicle-kind
@@ -19499,7 +19499,7 @@ vase
 table
 flower-color
 keyboard-laptop-color
-antenna-screen-used
+antenna-screen-use
 color-desk
 kitchen
 time-it-what
@@ -19573,7 +19573,7 @@ gender
 bench-color
 pot
 pot-door
-tenni-girl
+tennis-girl
 ball-color-dress
 girl
 couch-cat-arm
@@ -19653,7 +19653,7 @@ animal-picture
 scenery-background
 snack-dinner
 picture
-sicknes-morning-someone
+sickness-morning-someone
 giraffe-direction
 giraffe-neck
 giraffe-tree
@@ -19667,7 +19667,7 @@ cat-photo
 top-right-the-on-what
 cat
 color-photo
-school-public-a-thi-or
+school-public-a-this-or
 adult-picture
 vase
 tomato-slice
@@ -19676,7 +19676,7 @@ woman
 
 picture
 brand-surfboard
-company-country-thi-which
+company-country-this-which
 picture-brand
 
 bird
@@ -19738,7 +19738,7 @@ sheep-cage
 vest-color-safety
 train-kind
 manager
-wius
+wii
 shirt-word
 shirt-color-girl
 fruit
@@ -19767,7 +19767,7 @@ brand
 color-bottle
 hit-someone
 picture
-outdoor-they
+outdoors-they
 jacket-color-woman
 
 
@@ -19923,7 +19923,7 @@ console
 dog
 truck-garbage
 truck
-door-color-word-obra
+door-color-word-obras
 bowl
 mug
 plastic-mug
@@ -19937,7 +19937,7 @@ decoration-holiday
 hat-color-teddy-bear
 scarf-bear
 color-sign
-where-thi
+where-this
 exit
 light
 
@@ -20041,7 +20041,7 @@ train
 drink
 table
 hat
-ear-dog
+ears-dog
 dog
 window-seal-object
 shoulder
@@ -20074,7 +20074,7 @@ device
 truck-advertising
 cast
 bus-advertising-wine-brand
-state-thi-what
+state-this-what
 reno-call
 column-picture
 toilet-wall
@@ -20217,7 +20217,7 @@ weather
 kite-supply
 skirt-color-girl
 sport-girl
-tenni-surface
+tennis-surface
 picture
 camera-anyone
 picture
@@ -20301,7 +20301,7 @@ internet-woman-haired-browse-texting
 cell phone
 crossroad-location
 time-it-what
-city-thi-what
+city-this-what
 window-curtain-room-reason
 wood
 room
@@ -20345,14 +20345,14 @@ sunny
 dog
 dog
 woman-stand
-school-thi-a-at
+school-this-a-at
 woman-picture
 tv-something
 cat-photograph
 hardwood-floor
 zebra
 animal-photo
-safarus
+safari
 gold-look
 chandelier-room
 instrument
@@ -20362,7 +20362,7 @@ seat
 picture-object
 people-how
 photo
-acronym-octum
+acronym-octa
 bus
 bus
 weather-picture
@@ -20433,7 +20433,7 @@ air-the-what
 scenery-background
 boy
 sport-boy
-tenni-shoe-boy-brand
+tennis-shoe-boy-brand
 bus
 people
 color-sign
@@ -20442,7 +20442,7 @@ zoo
 amenity-civilization
 waterloo-thing
 time-it-what
-build-thi
+build-this
 story
 
 image
@@ -20473,7 +20473,7 @@ gear-kind
 color-girl-umbrella
 color-hat
 
-wius sport
+wii sport
 pant-color
 sweater-color-woman
 beach
@@ -20494,8 +20494,8 @@ background
 phenomenon
 fence
 vehicle-kind
-tenni-shoe
-tenni
+tennis-shoe
+tennis
 outfit-color
 screen-computer
 screen
@@ -20507,7 +20507,7 @@ animal-drink
 giraffe
 giraffe-animal
 fence
-school-a-thi-at
+school-a-this-at
 airborne-skateboarder
 animal-continent
 mascot-toy-store-animal
@@ -20531,7 +20531,7 @@ competition
 bike
 race
 food
-use-thi-would-who
+use-this-would-who
 food
 screen
 
@@ -20564,7 +20564,7 @@ bus
 vehicle
 bus-brand
 animal
-christma
+christmas
 snow-photograph
 graze-zebra
 zoo-animal
@@ -20590,7 +20590,7 @@ banana-bunch-hand-hold
 tree-snow
 air-they-the
 snow
-city-thi-what
+city-this-what
 speed-limit
 picture-sign
 restaurant
@@ -20648,13 +20648,13 @@ sport-screen
 tam-mean
 tile-color-floor
 bike-foreground-traffic-marker-kind
-biker
+bikers
 bike
 wall
 goblet
 cup
 picture
-sim
+sims
 color-floor
 
 
@@ -20666,7 +20666,7 @@ giraffe-camera
 giraffe-height
 tail-giraffe
 game-people-what-these
-country-thi-what
+country-this-what
 rain
 street-sign
 vowel-text-sign
@@ -20689,7 +20689,7 @@ scene
 sky-cloud
 wind
 kite
-tenni-racket-brand
+tennis-racket-brand
 umpire-sex
 brand
 creature
@@ -20738,8 +20738,8 @@ guy
 shirt
 
 character-picture
-santum clause
-north pole-santum-stand
+santa clause
+north pole-santa-stand
 necklace-woman
 woman-think
 microwave-clock
@@ -20776,7 +20776,7 @@ clock
 snow-street
 color-hydrant
 night-it
-jesu-cat
+jesus-cat
 tortoise-shell-cat
 cat
 truck-direction
@@ -20786,7 +20786,7 @@ male-eyeglass
 male-female
 table
 sky
-wheel-seat-color-ferri
+wheel-seat-color-ferris
 plane
 ski
 woman-dog-walk
@@ -20855,7 +20855,7 @@ image-book
 sleep-someone
 ruby-word
 sky-color
-where-thi
+where-this
 animal-photo
 finger-wear-ring-woman
 glass-table
@@ -20934,7 +20934,7 @@ display
 stove-figure
 sweet
 photo
-outdoor-they
+outdoors-they
 guy-hat-green
 bench-someone
 boy-skateboard
@@ -20997,7 +20997,7 @@ man-the-who
 watch
 sky-animal-kind
 hairstyle-girl
-octopu-color-eye
+octopus-color-eye
 
 banana
 stove-picture
@@ -21157,7 +21157,7 @@ tie-color
 
 woman
 short-color
-we-outdoor
+we-outdoors
 plane-look
 shape-scene
 animal-type
@@ -21219,7 +21219,7 @@ bed
 kid
 color
 bench
-bench-mos
+bench-moss
 
 
 color-sign-outside
@@ -21325,7 +21325,7 @@ bench
 foot
 wheel-skateboard
 picture-object
-kite-trus
+kite-tri
 kite
 kite
 mirror-photo
@@ -21342,7 +21342,7 @@ food-type
 pattern-tablecloth
 
 forearm
-tenni
+tennis
 food-plate
 someone
 color-plate
@@ -21465,7 +21465,7 @@ banana-hang
 door-color-stand
 ski-snowboarding-snow
 coat-color
-season-thi-what
+season-this-what
 bell-picture
 horse
 parade
@@ -21482,7 +21482,7 @@ knot-grain-wood-journal-table
 someone-monitor
 notebook-write
 keyboard
-electronic
+electronics
 cord
 cat
 cat
@@ -21537,7 +21537,7 @@ food-kind
 hole-donut
 
 color-necktie
-tight
+tights
 pot
 round-food-plate
 stove-food-plate
@@ -21652,7 +21652,7 @@ umbrella-table
 train-even-hour
 platform
 train
-city-thi-what
+city-this-what
 clock
 clock
 giraffe
@@ -21665,7 +21665,7 @@ food
 food
 fruit
 shelve
-day-time-of-thi-what
+day-time-of-this-what
 figurine
 banana
 banana-bunch
@@ -21686,7 +21686,7 @@ pizza-surface-kind
 watch
 guy
 liner-bus
-stand-cartum
+stand-carta
 bus-color
 canoe-handmade
 canoe
@@ -21716,7 +21716,7 @@ color-bodysuit
 bodysuit
 color-surfboard
 emo
-water-person-the-thi
+water-person-the-this
 lap-woman
 eye
 animal-kind
@@ -21770,7 +21770,7 @@ thing
 bed
 bed
 guy
-tenni-ball-color-thing
+tennis-ball-color-thing
 man-position-the-what
 coffee-table
 holiday
@@ -21881,7 +21881,7 @@ orange-sticker
 orange-pile
 sticker
 group
-might-place-where-thi
+might-place-where-this
 picture-zebra
 activity-condition-kind
 sand-beach
@@ -21917,7 +21917,7 @@ napkin
 clock
 
 cat
-thi
+this
 kitten
 green-stop-difference
 traffic
@@ -22131,7 +22131,7 @@ reflection
 sunflower
 time-it-what
 sky-cloud
-cactu
+cactus
 umbrella
 
 umbrella-need
@@ -22171,8 +22171,8 @@ photo
 car-street-lot
 cast
 curb
-cable-laptop-asu
-electronic
+cable-laptop-asus
+electronics
 laptop
 
 season-year-of-the-it-what
@@ -22232,7 +22232,7 @@ donut
 holiday-donut
 donut
 room
-paint-row-urinal-bookshelve
+paint-row-urinal-bookshelves
 decor-room-kind
 meal-look
 leave
@@ -22266,7 +22266,7 @@ device-photo
 computer-monitor
 pink
 restaurant
-ceil-hang
+ceiling-hang
 shoe-kind
 girl
 lap-girl
@@ -22360,7 +22360,7 @@ block-path
 toilet
 shirt-color-child
 toilet
-sock-tenni
+sock-tennis
 corner-bottom-letter
 
 motorcycle-paint-custom
@@ -22449,7 +22449,7 @@ fruit-stem
 grain-board
 shirt
 skateboard
-cyru-miley
+cyrus-miley
 girl
 shirt-color-girl
 holiday
@@ -22470,7 +22470,7 @@ curtain-shower-material
 color-towel
 cow
 cow-fence
-ear-cow
+ears-cow
 london-you
 color-streetlight
 sunny-weather
@@ -22691,7 +22691,7 @@ catch-frisbee
 they
 shirt-color
 guy-look
-tenni
+tennis
 
 time-it-what
 material
@@ -22763,7 +22763,7 @@ fuel-vehicle-kind
 sidewalk-chain
 scooter
 
-girl-apparatu-hand
+girl-apparatus-hand
 outfit-color-woman
 bike-color
 dog
@@ -22867,7 +22867,7 @@ hand
 elephant
 baby-elephant-bath
 park-picture
-circu-elephant
+circus-elephant
 animal
 tusk
 food-plate-kind
@@ -22879,8 +22879,8 @@ bird
 eye
 object
 
-electronic-picture
-electronic-pocket-knife
+electronics-picture
+electronics-pocket-knife
 bag-thing
 shirt
 pizza-eat
@@ -22913,7 +22913,7 @@ cat
 awake-cat
 floor
 sign
-construction-area-a-thi
+construction-area-a-this
 worker
 foot-bear
 bear
@@ -22968,8 +22968,8 @@ boy
 soccer
 dress-girl
 elephant-stand
-circu
-build-thi-what
+circus
+build-this-what
 color
 time-it-what
 color-plate
@@ -23036,7 +23036,7 @@ air-people-how-the
 vehicle-boat
 ski
 yard-need
-structure-thi
+structure-this
 shutter-color
 set
 object
@@ -23075,7 +23075,7 @@ bus
 cone-orange
 bus-color
 highway-bus
-state-thi-what
+state-this-what
 phone number
 truck-spray
 truck-color
@@ -23370,7 +23370,7 @@ giraffe-color
 giraffe
 color-dress
 shoe-woman
-art-thi
+art-this
 anyone-crosswalk
 motorcade
 sunny-picture
@@ -23384,7 +23384,7 @@ shirt-girl-image-leftmost
 camera
 location
 vegetable-dish
-pastum-dish-kind
+pasta-dish-kind
 vegetarian-dish
 alcohol-kind
 bathroom-bottle-jack daniel
@@ -23413,7 +23413,7 @@ plate
 appliance
 appliance-middle
 floor-room-kind
-family-a-thi
+family-a-this
 people-how
 adult-ratio-table-count
 suitcase
@@ -23547,7 +23547,7 @@ car
 mirror-rearview
 floor
 van
-language-thi-what
+language-this-what
 room
 camera
 dorm-room
@@ -23596,7 +23596,7 @@ cow-milk
 giraffe-eat
 dessert
 herd-giraffe
-event-type-of-thi-what
+event-type-of-this-what
 color-umbrella
 look
 sack-garbage
@@ -23629,7 +23629,7 @@ lamp-room
 beverage-color-drink
 
 situation
-ball-tenni-green
+ball-tennis-green
 sport
 ball
 ski
@@ -23676,7 +23676,7 @@ animal-hair
 horn-animal
 bird
 bird-color
-outside-thi
+outside-this
 kid-adult
 kid-photo
 kid
@@ -23776,7 +23776,7 @@ photo
 brown-horse
 window
 wall
-station-a-thi
+station-a-this
 bus
 bus
 round-thing
@@ -23798,7 +23798,7 @@ train-motion
 train-sign-kind
 signal-color
 cake-layer
-event-type-of-thi-what
+event-type-of-this-what
 ceremony
 van-photo
 truck-color-dog
@@ -23939,7 +23939,7 @@ utensil-plastic
 
 girl-birthday
 sport
-short-tenni-color
+short-tennis-color
 motion
 color-bear
 fur-bear
@@ -23953,11 +23953,11 @@ shirt
 wallpaper-paisley-pattern
 bathroom-wallpaper-pattern
 flower-counter
-ear-upright-dog-droopy
+ears-upright-dog-droopy
 dog
 brown-dog-eye
 
-ceil
+ceiling
 people-how
 group-people-part-of-the-these
 graffiti-wall
@@ -23969,11 +23969,11 @@ bowl-brush-toilet
 commode
 seat-color
 swim
-will-water-land-person-on-thi-the
+will-water-land-person-on-this-the
 knee-person
 snapshot
-tenni
-tenni-age
+tennis
+tennis-age
 kitchen
 image-lady
 wall-cross
@@ -24005,12 +24005,12 @@ background-kind
 funeral-scene
 background
 bicycle-fence
-city-thi-what
+city-this-what
 bike-bar-umbrella
 toilet-america
 room
 basket
-where-thi
+where-this
 gray-sky
 
 bike
@@ -24025,7 +24025,7 @@ color-food
 stand
 shirt-color
 chair
-church-thi-a-can
+church-this-a-can
 sunny
 clock-face
 door
@@ -24050,7 +24050,7 @@ graze-animal
 animal
 cow-photo
 color-tablecloth
-office-thi-an
+office-this-an
 george
 woman
 woman
@@ -24185,7 +24185,7 @@ eat-doughnut
 stool-picture-bar
 bell-wall
 boy
-game-thi-what
+game-this-what
 park-boy
 
 umbrella
@@ -24199,7 +24199,7 @@ people-the
 lamp
 color-chair
 book-bookshelf
-court-type-of-thi-what
+court-type-of-this-what
 girl
 outfit-person
 train
@@ -24226,7 +24226,7 @@ baseball-bat
 phone
 purse-color
 money
-where-thi
+where-this
 color-horse
 light-horse
 pizza
@@ -24253,7 +24253,7 @@ couch-color
 bike
 motorcycle-brand
 motorcycle
-season-thi-what
+season-this-what
 
 bear
 female-crowd
@@ -24281,7 +24281,7 @@ zebra
 plain
 animal-stand
 
-water-body-of-thi-what
+water-body-of-this-what
 color-board
 bag-trash
 cup-liquid-color
@@ -24305,7 +24305,7 @@ species-how
 giraffe-camera
 carabao
 eat
-man-how-thi
+man-how-this
 eyeglass
 grass
 frisbee
@@ -24398,9 +24398,9 @@ substance-train-bottom-kind
 orange-train-worker
 passenger-train
 tag-suitcase
-ship-thi-a-on
+ship-this-a-on
 suitcase
-man-live-for-a-thi-what
+man-live-for-a-this-what
 baseball
 seat
 vegetable
@@ -24416,7 +24416,7 @@ oven
 photo
 restaurant
 color-umbrella
-outside-thi
+outside-this
 color-umbrella
 dog
 doorway-dog-stand
@@ -24480,7 +24480,7 @@ girl
 air-the-what
 snowboarding
 goggle
-season-thi-what
+season-this-what
 brown-spot-dog
 dog
 clock-color
@@ -24549,7 +24549,7 @@ it
 holiday
 glove-girl
 girl
-event-school-thi-a
+event-school-this-a
 elephant
 elephant-anyone
 color-elephant
@@ -24723,7 +24723,7 @@ car-crash-scene
 crash-street
 coat-someone
 sweater-color
-outdoor-thi
+outdoors-this
 room
 door
 room-someone
@@ -24746,14 +24746,14 @@ cake
 cake
 color-card-picture
 color
-calory-donut
+calories-donut
 holiday-donut
 soldier
 guy
 
-day-time-of-thi-what
+day-time-of-this-what
 clock
-outside-our-thi
+outside-our-this
 color-sign
 park
 night-it
@@ -24761,7 +24761,7 @@ tv
 can-outside-you
 palette
 bird-chest-color
-football-thi-a
+football-this-a
 bird-kind
 camera-bear-brand
 teddy-camera-bear
@@ -24794,7 +24794,7 @@ sky
 plane
 plane
 pizza-round
-ceil-photographer
+ceiling-photographer
 table
 arm
 water-people-the-these
@@ -24834,7 +24834,7 @@ arm
 wave
 mountain
 vehicle-kind
-road-place-a-at-thi
+road-place-a-at-this
 ball
 boy
 grass
@@ -24948,7 +24948,7 @@ bird
 bird
 
 tie-color
-man-thi
+man-this
 sport
 net-photo
 shirt-color
@@ -25031,7 +25031,7 @@ street
 water
 car
 steam engine
-city-a-thi
+city-a-this
 bracket-flag-pole
 cat
 tank-fish
@@ -25144,7 +25144,7 @@ grass-color
 color-cage
 toy
 elephant
-worker-hardhat
+worker-hardhats
 color-tomcat
 
 bird-chirp
@@ -25187,7 +25187,7 @@ pizza-slice
 pizza-slice-pepperoni
 pizza-plate
 color-line
-tenni-ball-woman
+tennis-ball-woman
 color
 curtain-shower
 faucet
@@ -25351,7 +25351,7 @@ rhyme-picture-anything
 bench
 sunny
 bench-anyone
-place-thi-what
+place-this-what
 boy
 helmet-boy
 bus
@@ -25373,7 +25373,7 @@ rescue
 amount
 hat
 color-license-plate
-country-thi-what
+country-this-what
 color-cow
 photo-sign-stop
 
@@ -25381,9 +25381,9 @@ color-sign-stop
 can
 eat
 can-where-of-the
-tenni-grip-color-racket
+tennis-grip-color-racket
 
-tenni-color-racket
+tennis-color-racket
 descent
 wall
 bag
@@ -25409,7 +25409,7 @@ image
 zebra
 horse-photo
 phone-color
-nokium-phone-brand
+nokia-phone-brand
 phone
 eat-rabbit
 rabbit-danger
@@ -25456,11 +25456,11 @@ color-floor
 beverage
 beverage
 price-sign
-event-thi-what
+event-this-what
 grass-color
 sport
 pizza-fork-knife-eat
-olife-pizza
+olives-pizza
 color-plate
 apartment
 light
@@ -25557,7 +25557,7 @@ arrow
 graffiti-wall
 sport
 boy
-game-thi
+game-this
 girl
 water-people-how-the
 dog
@@ -25588,7 +25588,7 @@ jacket-color
 apple
 pepper-photo
 vegetable
-operation-thi
+operation-this
 bag
 advertising-pamphlet
 color-wall
@@ -25627,7 +25627,7 @@ picture
 cap
 passenger-driver-tank-truck-gas-refill
 horse-everyone
-citru-plate-kind
+citrus-plate-kind
 plate-shape
 fruit-color
 animal
@@ -26012,7 +26012,7 @@ cholesterol-cereal-carb
 beverage
 item-counter
 car-break
-town-a-thi
+town-a-this
 car-color
 picture
 
@@ -26036,7 +26036,7 @@ county road-highway-look
 picture
 lane-driver
 toe-picture
-ear-dog
+ears-dog
 color-dog
 tv
 tv-computer
@@ -26056,7 +26056,7 @@ sunny
 
 leg-woman
 surf
-country-to-thi-what
+country-to-this-what
 picture-zebra
 giraffe-picture
 eat-dog
@@ -26178,18 +26178,18 @@ track
 speed-limit
 color
 
-man-how-thi
+man-how-this
 screen
 game-man-the-what
 room-kind
 pizza-pepperoni
 spoon-table
 pizza-color
-piercing
+piercings
 glove-girl
 glove-girl
 picture-spiderman
-thi
+this
 dog
 clock
 clock-hand
@@ -26293,7 +26293,7 @@ street
 female
 room
 woman-look
-saucer-biscottus
+saucer-biscotti
 cup-someone-drink
 chocolate-look
 habitat-animal
@@ -26301,14 +26301,14 @@ baby-bear
 constellation-creature
 wheelchair
 round-object
-fluid-item-los-way-deal
+fluid-item-loss-way-deal
 surf-para
 stand
 man-where-the
 sheep
 sheep
 dish
-mattres
+mattress
 subject-photo
 boy
 corporation-manufacturer-computer
@@ -26361,7 +26361,7 @@ room-kind
 window
 weather
 kitchen-counter
-child-home-thi
+child-home-this
 photo-street
 sign
 sign-railway station
@@ -26420,7 +26420,7 @@ wing
 land-plane
 plane-passenger
 sun
-picture-sepium
+picture-sepia
 
 plane
 plane
@@ -26459,7 +26459,7 @@ train-number
 train
 subway
 color-cabinet
-ceil-hang
+ceiling-hang
 kitchen
 line-eye
 chin
@@ -26487,7 +26487,7 @@ hat-color-girl
 foreground
 child-slide
 slide
-ear-slide-eye
+ears-slide-eye
 
 
 food
@@ -26496,7 +26496,7 @@ circle
 container-material
 hand
 pant-orange
-state-thi-what
+state-this-what
 jump-counter-box
 bowl
 bowl-cereal-kind
@@ -26511,14 +26511,14 @@ surfboard
 
 
 ocean
-wetsuit
+wetsuits
 boat
 truck
 truck-letter
 boat-need
 scene
 boat-color
-ship-people-how-thi-on
+ship-people-how-this-on
 boat-tourist
 color
 pool
@@ -26540,7 +26540,7 @@ deck-plant
 floor
 woman-dog
 build-type-on-of-the-what
-city-a-thi
+city-a-this
 dirt
 pizza-cheese
 pizza
@@ -26608,7 +26608,7 @@ toothbrush-unwrap
 guitar
 shelf-book
 person-the-what
-kium-truck-brand
+kia-truck-brand
 truck
 truck-color
 crt
@@ -26715,7 +26715,7 @@ neighborhood
 park-meter
 hand
 
-player-person-number-thi-what
+player-person-number-this-what
 color-basket
 table
 room-break
@@ -26768,7 +26768,7 @@ bathroom-toilet
 picture-room
 seat-toilet-lid
 light-tree
-light-tower-christma
+light-tower-christmas
 camera-picture-security
 basket
 vendor
@@ -26798,8 +26798,8 @@ luggage-kind
 wheel-color
 good
 lady
-tenni-ethnicity
-tenni
+tennis-ethnicity
+tennis
 dessert
 cake
 
@@ -26862,7 +26862,7 @@ pant-color
 leg
 fruit-type
 color-basket
-citru-fruit
+citrus-fruit
 
 foot
 
@@ -26878,7 +26878,7 @@ sky-color
 man-on-the-what
 stand
 
-safarus-photo
+safari-photo
 elbow
 jacket
 light-color-traffic
@@ -27079,9 +27079,9 @@ look
 picture-focus
 pant-skater-length
 stand
-space-people-thi-what
+space-people-this-what
 altar
-church-thi-a
+church-this-a
 dryer-hair
 
 shirt-color
@@ -27165,12 +27165,12 @@ tie-color
 shirt-color
 corner-room
 room
-ceil
+ceiling
 dog
 color-toy
 catcher-dog
 
-tenni
+tennis
 espn-tape
 
 vehicle
@@ -27224,7 +27224,7 @@ lotion
 kid
 eat
 sand
-where-thi
+where-this
 umbrella
 clock
 picture
@@ -27266,7 +27266,7 @@ seat
 tissue-sink-box
 
 track
-season-thi-what
+season-this-what
 vehicle-kind
 vehicle
 motorcycle
@@ -27315,7 +27315,7 @@ shop-shoe
 snow
 place-the-what
 item
-apple-deliciou-gala-royal
+apple-delicious-gala-royal
 shirt-color
 ball-color
 photo
@@ -27353,7 +27353,7 @@ boy-clothe-pattern
 doorstep-foot
 splinter-boy-foot-danger
 color-chair
-home-a-thi
+home-a-this
 color
 
 sunlight
@@ -27370,7 +27370,7 @@ toy-baby
 bus
 bus
 window-bus
-wius-wrist
+wii-wrist
 color-cover
 advertisement
 batter-shoe
@@ -27379,7 +27379,7 @@ batter-sock-knee
 dinner-table
 light-hang
 room
-flare-len-photo
+flare-lens-photo
 kite
 sky-cloud-kind
 
@@ -27389,7 +27389,7 @@ item
 filter-photo
 cup
 dog-bed
-color-bedsheet
+color-bedsheets
 color-dog
 boy
 boy-hand
@@ -27447,7 +27447,7 @@ tournament-wall
 globe
 daughter
 kid
-ear-color-bear
+ears-color-bear
 gate
 fence-picture
 sign
@@ -27501,7 +27501,7 @@ vase-windowsill
 window-dog
 crouch
 motorcycle
-len-photo
+lens-photo
 casper-sign-number
 intersection-corner
 color-sign
@@ -27519,7 +27519,7 @@ room
 people-how-you
 giraffe-forest
 giraffe-line
-where-thi
+where-this
 screen-computer-photo
 room-bookcase
 color-wall
@@ -27550,7 +27550,7 @@ photo-watermark
 surfer-wave-size
 
 fun
-tenni court
+tennis court
 squash
 picture
 traveler
@@ -27624,7 +27624,7 @@ girl-stand
 girl
 time-it-what
 clock
-church-thi-a
+church-this-a
 dinner party
 photo
 dinner
@@ -27639,7 +27639,7 @@ animal-dog
 dog-photograph
 
 distance
-russium
+russia
 tree-photo
 bench
 people
@@ -27666,8 +27666,8 @@ color-cat
 awake-cat
 male-female
 tree
-country-thi-what
-water-body-of-thi-what
+country-this-what
+water-body-of-this-what
 tower
 boat
 train-photo
@@ -27684,7 +27684,7 @@ toilet
 door
 color-sunset
 bird
-day-time-of-thi-what
+day-time-of-this-what
 horse-post
 horse
 carriage-street
@@ -27709,9 +27709,9 @@ ear
 kleenex
 room
 door-shower-look
-tenni-racket-wall
-tenni-racket-wall
-tenni-racket
+tennis-racket-wall
+tennis-racket-wall
+tennis-racket
 rider-hat
 elephant-scene
 rider-color
@@ -27848,7 +27848,7 @@ color-swimsuit
 surfboard
 picture
 beverage
-olife-plate-shape
+olives-plate-shape
 glass-round-container
 workspace
 coaster
@@ -27864,7 +27864,7 @@ cow-image
 color-cow
 stripe-tie
 vote-sticker
-man-thi-or
+man-this-or
 apple-color
 oatmeal-look
 spoonful
@@ -27935,7 +27935,7 @@ people-how
 people-what-these
 bit-someone
 bottom-photo
-game-thi-what
+game-this-what
 short-match
 snowboarding-kid
 girl-photo
@@ -28009,7 +28009,7 @@ animal
 flower-color-table
 couple
 knife-hand
-single-tenni-couple
+single-tennis-couple
 
 
 survivor
@@ -28021,7 +28021,7 @@ curtain-shower
 shadow
 color-sun-umbrella
 wave-lot
-game-person-thi-what
+game-person-this-what
 hit-shoot
 out-of-bound
 bird
@@ -28045,7 +28045,7 @@ cone-color
 anything-fridge
 knife-knife-holder-something
 counter-toaster
-wetsuit
+wetsuits
 sail-color
 
 spoon-picture
@@ -28104,7 +28104,7 @@ bird
 bird
 skier
 skier-backpack
-season-thi-what
+season-this-what
 baby-animal
 feeding-animal
 animal-food
@@ -28131,7 +28131,7 @@ picture-middle
 photo
 color-cabinet
 cabinet
-house-part-of-the-thi-what
+house-part-of-the-this-what
 plant-picture
 tv
 tv
@@ -28146,7 +28146,7 @@ animal
 mess-dog
 pizza
 wall-object
-ceil
+ceiling
 controller-color
 game-woman
 couch-pillow
@@ -28204,10 +28204,10 @@ vehicle
 hose
 license-plate
 car-gas
-used
+use
 color-hydrant
 
-water-person-thi-the
+water-person-this-the
 sleeve-color
 lift
 slice
@@ -28273,7 +28273,7 @@ color-cabinet
 engine-letter
 train-hook
 woman-picture
-clock-lo-angele
+clock-los-angeles
 roman numeral
 clock
 pizza-pepperoni
@@ -28298,13 +28298,13 @@ color-animal
 animal-shoot
 day-time-of-what-it
 sport
-tenni court
+tennis court
 court-people-how-on-the
 engine-plane
 photo
 land-plane
 vegetable-plate
-meal-carb
+meal-carbs
 noodle-salad
 picture-globe
 window-face
@@ -28340,7 +28340,7 @@ truck-color
 letter-snowmobile
 vehicle
 car
-day-time-of-thi-what
+day-time-of-this-what
 tower
 building
 scene
@@ -28352,7 +28352,7 @@ bike-something
 wheel-reflector
 bike
 roof-color
-thi-what
+this-what
 boat
 hydrant
 flower
@@ -28392,7 +28392,7 @@ shirt-pattern
 bald
 video game
 game-system-they-what
-ceil-fan
+ceiling-fan
 table
 lamp
 table-anyone
@@ -28443,7 +28443,7 @@ color-floor
 luggage
 they-why
 shoe-kind
-tenni-ball
+tennis-ball
 sky
 image
 man-the-what
@@ -28471,7 +28471,7 @@ ball-hit
 grass-sheep
 animal
 background
-man-thi
+man-this
 look
 sleeve-shirt-metal-object
 object
@@ -28566,7 +28566,7 @@ towel-photo
 room
 animal
 grass-color
-thi
+this
 friend
 bear
 fish-bear
@@ -28682,7 +28682,7 @@ bus
 gas
 traffic
 look
-ceil-picture
+ceiling-picture
 picture-female
 picture
 television-the-on
@@ -28750,7 +28750,7 @@ summer
 object
 season-it-what
 bench
-ceil-hang-wall-item
+ceiling-hang-wall-item
 presentation
 apple computer-picture
 room
@@ -28807,7 +28807,7 @@ sport
 cage
 cage-hold
 sale
-neckty
+neckties
 shirt-color-woman
 everyone
 picture
@@ -28855,7 +28855,7 @@ hat
 bowl
 dish
 cook-dish-eye-something
-grind-man-the-thi
+grind-man-the-this
 skate-roller
 trick
 juice-kind
@@ -29035,7 +29035,7 @@ street-stand
 skateboarding-street-middle
 car-street
 picture
-tenni-racket-net
+tennis-racket-net
 sport
 bracelet
 picture
@@ -29127,7 +29127,7 @@ argument
 microwave-kitchen
 
 sign
-build-busines-a-the
+build-business-a-the
 skill
 artist-woman
 rail-boy-stand
@@ -29160,7 +29160,7 @@ people-how
 
 short
 shirt-color
-thi
+this
 sport
 man-the-to-what
 wrist
@@ -29215,7 +29215,7 @@ glove
 wine
 banana-shoot
 window-photo
-ceil-hang-candy
+ceiling-hang-candy
 cake-birthday
 expression-girl-face
 appliance-bottom
@@ -29266,7 +29266,7 @@ tie-pattern
 
 hand
 hand
-wius
+wii
 title-game-of-you-what-the
 speaker-sound
 
@@ -29289,7 +29289,7 @@ car
 traffic-color
 truck
 truck
-city-a-thi
+city-a-this
 dish
 soda-table-kind
 girl-hand
@@ -29297,7 +29297,7 @@ sport
 batter
 background
 chair-shape
-design-a-thi
+design-a-this
 color-chair
 plant
 flower-color
@@ -29322,7 +29322,7 @@ demonstration
 motorcycle-ride-horse
 bus-park
 bus-color
-city-thi-what
+city-this-what
 man-the-what
 
 piano player
@@ -29386,7 +29386,7 @@ grass-color
 bird-kind
 land
 photo
-tenni-skirt
+tennis-skirt
 woman-brand-racquet
 foreground
 leafy-cover-green
@@ -29460,7 +29460,7 @@ sheep-box
 sheep
 
 shoot
-day-time-of-thi-what
+day-time-of-this-what
 boy
 boy-stand
 boy
@@ -29502,7 +29502,7 @@ picture-dog
 human-picture
 concrete-word
 bus
-city-thi-which
+city-this-which
 item
 chapter
 cyrillic-page
@@ -29541,7 +29541,7 @@ elephant
 animal-surface-stand
 you
 boat
-place-where-thi
+place-where-this
 bench-climb-step
 build-of-the-what
 bench-kind
@@ -29560,8 +29560,8 @@ sign
 color-bed
 bed-size
 bed-cover-pattern
-tenni-ball
-game-man-a-thi
+tennis-ball
+game-man-a-this
 racket
 color-teddy bear
 photo
@@ -29626,7 +29626,7 @@ bus-food
 look
 
 stove-color
-tenni-guy
+tennis-guy
 knee
 sunglass
 horse
@@ -29641,7 +29641,7 @@ pair-shoe-floor
 eye
 face-cringe
 woman
-christma
+christmas
 collar-cat
 fireplace-character-name
 fruit-orange-cut-juiced
@@ -29738,14 +29738,14 @@ group-people-how-the
 bird
 color-chair
 
-color-tenni court
+color-tennis court
 color-hat
 dog
 bike-stand
 bike
 plane
 car-color
-aircraft-thi-a
+aircraft-this-a
 
 truck-color
 bike-mark
@@ -29810,7 +29810,7 @@ elephant
 elephant-direction
 barrier-wire
 photo
-city-the-thi
+city-the-this
 car
 meal
 carrot-color
@@ -29823,7 +29823,7 @@ television-a
 picture-wall
 night-for-the-he
 bench-color
-homeles
+homeless
 jacket-color
 
 background
@@ -29976,7 +29976,7 @@ woman
 floor
 wheel
 bridge-picture
-city-thi-what
+city-this-what
 pet-kind
 insect-animal-block
 color-toy
@@ -30137,7 +30137,7 @@ animal
 beak-bird
 bird-carnivore
 woman
-thi
+this
 tree
 woman-conversation
 jewelry-woman
@@ -30177,7 +30177,7 @@ thumb-woman
 woman-foot-stand
 bus-mass transit
 driver-bus
-might-country-thi-what
+might-country-this-what
 hand
 short-color
 shirt-color
@@ -30186,7 +30186,7 @@ wallpaper-color
 bathtub-anything
 picture
 shirt-color
-man-home-the-thi
+man-home-the-this
 
 
 color-surfer-wetsuit
@@ -30242,7 +30242,7 @@ photo
 color-hair
 boy
 color
-tenni-ball-racquet
+tennis-ball-racquet
 patron
 slice-look
 color-plate
@@ -30288,7 +30288,7 @@ dog
 color-bun
 
 surfer
-act-part-of-the-thi
+act-part-of-the-this
 
 my-they-what
 clothe-era
