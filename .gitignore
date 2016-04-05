@@ -4,9 +4,6 @@ data/*
 # pyc files
 *.pyc
 
-# model files
-*.t7
-
 # .DS_Store files
 *.DS_Store
 
