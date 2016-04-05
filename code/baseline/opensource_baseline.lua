@@ -95,8 +95,8 @@ end
 
 function runTrainVal()
     local method = 'BOWIMG'
-    local step_trainval = true --  step for train and valiaton
-    local step_trainall = true --  step for combining train2014 and val2014
+    local step_trainval = false --  step for train and valiaton
+    local step_trainall = false --  step for combining train2014 and val2014
     local opt = initial_params()
     opt.method = method
     opt.save = paths.concat(opt.savepath, method ..'.t7')
@@ -230,5 +230,5 @@ function runTest()
 
 end
 
-runTrainVal()
+-- runTrainVal()
 runTest()
