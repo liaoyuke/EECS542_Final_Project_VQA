@@ -152,7 +152,7 @@ function runTrainVal()
             print('best epoch number is ' .. nEpoch_best)
             print('best acc is ' .. acc_openend_best)
         else
-            nEpoch_best = 2
+            nEpoch_best = 60
         end
         -- Combine train2014 and val2014
         local nEpoch_trainAll = nEpoch_best
