@@ -1,8 +1,8 @@
 #!/bin/sh
 #PBS -S /bin/sh
 #PBS -N VQA_liaoyuke
-#PBS -l nodes=1:ppn=1:gpus=2
-#PBS -l pmem=32gb
+#PBS -l nodes=1:ppn=1:gpus=1
+#PBS -l pmem=5gb
 #PBS -q fluxg
 #PBS -A eecs542w16_fluxg
 #PBS -l qos=flux
