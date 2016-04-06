@@ -17,6 +17,7 @@ with open(input_file_path) as fin:
 
 for word in list_words:
 	word = word.rstrip()
+	print word
 	if word in concept_map:
 		continue
 	list_concepts = get_commonsense(word.replace(' ', '_'), 50)
