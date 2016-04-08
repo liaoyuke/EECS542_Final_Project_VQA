@@ -1,0 +1,23 @@
+bus
+bus-color
+items-sale
+tent-sale
+grocery store
+bed-dog
+bed-frame
+dog
+clock-color-hands
+direction-weathervane
+walk
+magazines-picture
+lap-animal
+hand
+pizza-toppings-kind
+pizza-recipe
+
+city-this-what
+boat-speed-wake-size
+skiers-picture
+color-desk
+laptops-color
+keyboard-color
