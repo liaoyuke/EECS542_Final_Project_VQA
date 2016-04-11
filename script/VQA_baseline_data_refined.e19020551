@@ -1,0 +1,434 @@
+[?1034h[0muse GPU IDX=2[0m	
+[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_answer_refined.txt[0m	
+[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_question_refined.txt[0m	
+[0m no.vocab_question=5742, no.vocab_answer=5216[0m	
+[0mgooglenetFCdense[0m	
+[0mlr_wordembed = 0.8[0m	
+[0mlr_other = 0.01[0m	
+[0mweightClip_wordembed = 1500[0m	
+[0mweightClip_other = 20[0m	
+{
+  1 : [0;31mCudaTensor - size: 1024x5742[0m
+  2 : [0;31mCudaTensor - size: 5216x2048[0m
+}
+[0mstart training on all data ...[0m	
+[0mepoch 1/60[0m	
+[0mtrain: acc (mostFreq) =0.35173593814299[0m	
+[0mtrain: acc.match mostfreq = 0.35173593814299[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.11832012157704[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15026928880323[0m	
+[0mtrain loss=340.25619897583[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 2/60[0m	
+[0mtrain: acc (mostFreq) =0.40700060644127[0m	
+[0mtrain: acc.match mostfreq = 0.40700060644127[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10820735237848[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15019348364414[0m	
+[0mtrain loss=281.7853890917[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 3/60[0m	
+[0mtrain: acc (mostFreq) =0.42841285655498[0m	
+[0mtrain: acc.match mostfreq = 0.42841285655498[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10723000729173[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15183863608471[0m	
+[0mtrain loss=260.43578706231[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 4/60[0m	
+[0mtrain: acc (mostFreq) =0.44205778518984[0m	
+[0mtrain: acc.match mostfreq = 0.44205778518984[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10662988311566[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15227902796129[0m	
+[0mtrain loss=246.53894576044[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 5/60[0m	
+[0mtrain: acc (mostFreq) =0.45168774772043[0m	
+[0mtrain: acc.match mostfreq = 0.45168774772043[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10658927320901[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15318598254317[0m	
+[0mtrain loss=236.05471579097[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 6/60[0m	
+[0mtrain: acc (mostFreq) =0.46032682852873[0m	
+[0mtrain: acc.match mostfreq = 0.46032682852873[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10633207713355[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1531516897331[0m	
+[0mtrain loss=227.68613261603[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 7/60[0m	
+[0mtrain: acc (mostFreq) =0.46666197396634[0m	
+[0mtrain: acc.match mostfreq = 0.46666197396634[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10601892963115[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15323561687352[0m	
+[0mtrain loss=220.65273457147[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 8/60[0m	
+[0mtrain: acc (mostFreq) =0.47210370145762[0m	
+[0mtrain: acc.match mostfreq = 0.47210370145762[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10581768498264[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15410737620297[0m	
+[0mtrain loss=214.61135841119[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 9/60[0m	
+[0mtrain: acc (mostFreq) =0.47683069459184[0m	
+[0mtrain: acc.match mostfreq = 0.47683069459184[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10589800235357[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15482933009899[0m	
+[0mtrain loss=209.29426064334[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 10/60[0m	
+[0mtrain: acc (mostFreq) =0.48227783673735[0m	
+[0mtrain: acc.match mostfreq = 0.48227783673735[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.106023441843[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15525347801291[0m	
+[0mtrain loss=204.52241084559[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 11/60[0m	
+[0mtrain: acc (mostFreq) =0.48636860800069[0m	
+[0mtrain: acc.match mostfreq = 0.48636860800069[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10589890479594[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15586713882453[0m	
+[0mtrain loss=200.25596473268[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 12/60[0m	
+[0mtrain: acc (mostFreq) =0.4894035216911[0m	
+[0mtrain: acc.match mostfreq = 0.4894035216911[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10580234346235[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15606928591541[0m	
+[0mtrain loss=196.33702266404[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 13/60[0m	
+[0mtrain: acc (mostFreq) =0.49316941370124[0m	
+[0mtrain: acc.match mostfreq = 0.49316941370124[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10548287886336[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15531484409407[0m	
+[0mtrain loss=192.79449343265[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 14/60[0m	
+[0mtrain: acc (mostFreq) =0.49616101015789[0m	
+[0mtrain: acc.match mostfreq = 0.49616101015789[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10577256286414[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15568213813867[0m	
+[0mtrain loss=189.53142797336[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 15/60[0m	
+[0mtrain: acc (mostFreq) =0.4996236815317[0m	
+[0mtrain: acc.match mostfreq = 0.4996236815317[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10580324590472[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15556121086109[0m	
+[0mtrain loss=186.39992893858[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 16/60[0m	
+[0mtrain: acc (mostFreq) =0.50238515518399[0m	
+[0mtrain: acc.match mostfreq = 0.50238515518399[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10557041577325[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15671994686421[0m	
+[0mtrain loss=183.62722587967[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 17/60[0m	
+[0mtrain: acc (mostFreq) =0.50527387321046[0m	
+[0mtrain: acc.match mostfreq = 0.50527387321046[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10552348877001[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15527694151453[0m	
+[0mtrain loss=180.90959854672[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 18/60[0m	
+[0mtrain: acc (mostFreq) =0.5078891511988[0m	
+[0mtrain: acc.match mostfreq = 0.5078891511988[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10549280572943[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15664594658986[0m	
+[0mtrain loss=178.36195395583[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 19/60[0m	
+[0mtrain: acc (mostFreq) =0.51004689090555[0m	
+[0mtrain: acc.match mostfreq = 0.51004689090555[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10558485485117[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15591226094303[0m	
+[0mtrain loss=176.0238981277[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 20/60[0m	
+[0mtrain: acc (mostFreq) =0.51364222130775[0m	
+[0mtrain: acc.match mostfreq = 0.51364222130775[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10536285402814[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1549646964545[0m	
+[0mtrain loss=173.69431046471[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 21/60[0m	
+[0mtrain: acc (mostFreq) =0.51603279114596[0m	
+[0mtrain: acc.match mostfreq = 0.51603279114596[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10527260979114[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15559279634404[0m	
+[0mtrain loss=171.58825087868[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 22/60[0m	
+[0mtrain: acc (mostFreq) =0.51810118905807[0m	
+[0mtrain: acc.match mostfreq = 0.51810118905807[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10558575729354[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15584908997713[0m	
+[0mtrain loss=169.52690336257[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 23/60[0m	
+[0mtrain: acc (mostFreq) =0.52054861276559[0m	
+[0mtrain: acc.match mostfreq = 0.52054861276559[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10545761047699[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15549803989518[0m	
+[0mtrain loss=167.59058448453[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 24/60[0m	
+[0mtrain: acc (mostFreq) =0.52267927920123[0m	
+[0mtrain: acc.match mostfreq = 0.52267927920123[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.1051471703017[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15508833105919[0m	
+[0mtrain loss=165.74107056974[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 25/60[0m	
+[0mtrain: acc (mostFreq) =0.5252999718438[0m	
+[0mtrain: acc.match mostfreq = 0.5252999718438[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10511377993401[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15522911206892[0m	
+[0mtrain loss=163.92224125896[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 26/60[0m	
+[0mtrain: acc (mostFreq) =0.52682419700678[0m	
+[0mtrain: acc.match mostfreq = 0.52682419700678[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10562275743071[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15640318959232[0m	
+[0mtrain loss=162.20710056725[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 27/60[0m	
+[0mtrain: acc (mostFreq) =0.52862186220788[0m	
+[0mtrain: acc.match mostfreq = 0.52862186220788[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10523831698108[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15527603907216[0m	
+[0mtrain loss=160.57274340601[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 28/60[0m	
+[0mtrain: acc (mostFreq) =0.53077147993329[0m	
+[0mtrain: acc.match mostfreq = 0.53077147993329[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10525636582848[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1550278674204[0m	
+[0mtrain loss=158.98622572739[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 29/60[0m	
+[0mtrain: acc (mostFreq) =0.5333759286132[0m	
+[0mtrain: acc.match mostfreq = 0.5333759286132[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10525185361663[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15520294124018[0m	
+[0mtrain loss=157.44248573401[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 30/60[0m	
+[0mtrain: acc (mostFreq) =0.53436410300838[0m	
+[0mtrain: acc.match mostfreq = 0.53436410300838[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10531231725542[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15545111289194[0m	
+[0mtrain loss=155.99589397993[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 31/60[0m	
+[0mtrain: acc (mostFreq) =0.53712016200645[0m	
+[0mtrain: acc.match mostfreq = 0.53712016200645[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10530329283172[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1550639651152[0m	
+[0mtrain loss=154.60355554998[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 32/60[0m	
+[0mtrain: acc (mostFreq) =0.53837094713132[0m	
+[0mtrain: acc.match mostfreq = 0.53837094713132[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10541880545508[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15457484135064[0m	
+[0mtrain loss=153.26099681063[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 33/60[0m	
+[0mtrain: acc (mostFreq) =0.54049890623985[0m	
+[0mtrain: acc.match mostfreq = 0.54049890623985[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10535924425866[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15527333174505[0m	
+[0mtrain loss=151.92462457267[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 34/60[0m	
+[0mtrain: acc (mostFreq) =0.54236966927292[0m	
+[0mtrain: acc.match mostfreq = 0.54236966927292[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10526629269455[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15474991517043[0m	
+[0mtrain loss=150.58668477475[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 35/60[0m	
+[0mtrain: acc (mostFreq) =0.54458697017608[0m	
+[0mtrain: acc.match mostfreq = 0.54458697017608[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.1048854620144[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15407759560476[0m	
+[0mtrain loss=149.34540716016[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 36/60[0m	
+[0mtrain: acc (mostFreq) =0.54521777739274[0m	
+[0mtrain: acc.match mostfreq = 0.54521777739274[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10532585389097[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15489701327674[0m	
+[0mtrain loss=148.18684561302[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 37/60[0m	
+[0mtrain: acc (mostFreq) =0.54701814992095[0m	
+[0mtrain: acc.match mostfreq = 0.54701814992095[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10527170734877[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15507389198127[0m	
+[0mtrain loss=147.12739920773[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 38/60[0m	
+[0mtrain: acc (mostFreq) =0.54945474432003[0m	
+[0mtrain: acc.match mostfreq = 0.54945474432003[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.1052437316353[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1544015724156[0m	
+[0mtrain loss=145.88968637491[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 39/60[0m	
+[0mtrain: acc (mostFreq) =0.5517559723636[0m	
+[0mtrain: acc.match mostfreq = 0.5517559723636[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10497390136666[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15442684080196[0m	
+[0mtrain loss=144.73302216934[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 40/60[0m	
+[0mtrain: acc (mostFreq) =0.55276039072145[0m	
+[0mtrain: acc.match mostfreq = 0.55276039072145[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10525095117426[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15470389060956[0m	
+[0mtrain loss=143.74531446683[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 41/60[0m	
+[0mtrain: acc (mostFreq) =0.55440644560438[0m	
+[0mtrain: acc.match mostfreq = 0.55440644560438[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10523921942345[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15387635095624[0m	
+[0mtrain loss=142.67088216146[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 42/60[0m	
+[0mtrain: acc (mostFreq) =0.5556978406359[0m	
+[0mtrain: acc.match mostfreq = 0.5556978406359[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10520312172865[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1549917697256[0m	
+[0mtrain loss=141.64042052568[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 43/60[0m	
+[0mtrain: acc (mostFreq) =0.55853241212016[0m	
+[0mtrain: acc.match mostfreq = 0.55853241212016[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10521575592183[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1537572285634[0m	
+[0mtrain loss=140.7157059851[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 44/60[0m	
+[0mtrain: acc (mostFreq) =0.55965053821663[0m	
+[0mtrain: acc.match mostfreq = 0.55965053821663[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10502714546649[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15445391407306[0m	
+[0mtrain loss=139.76890731397[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 45/60[0m	
+[0mtrain: acc (mostFreq) =0.56049793160209[0m	
+[0mtrain: acc.match mostfreq = 0.56049793160209[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10505331629522[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15498815995612[0m	
+[0mtrain loss=138.81524594789[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 46/60[0m	
+[0mtrain: acc (mostFreq) =0.56158356977323[0m	
+[0mtrain: acc.match mostfreq = 0.56158356977323[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10471129063698[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15410196154875[0m	
+[0mtrain loss=137.95243634618[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 47/60[0m	
+[0mtrain: acc (mostFreq) =0.56322421000195[0m	
+[0mtrain: acc.match mostfreq = 0.56322421000195[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10512190191534[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15410196154875[0m	
+[0mtrain loss=137.12850812222[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 48/60[0m	
+[0mtrain: acc (mostFreq) =0.56508143639947[0m	
+[0mtrain: acc.match mostfreq = 0.56508143639947[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10490621818891[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.1533836174222[0m	
+[0mtrain loss=136.26032195539[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 49/60[0m	
+[0mtrain: acc (mostFreq) =0.56754239674254[0m	
+[0mtrain: acc.match mostfreq = 0.56754239674254[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10493238901764[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15402344906255[0m	
+[0mtrain loss=135.38559011042[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 50/60[0m	
+[0mtrain: acc (mostFreq) =0.56823547248273[0m	
+[0mtrain: acc.match mostfreq = 0.56823547248273[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10541609812797[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15441691393589[0m	
+[0mtrain loss=134.58705743836[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 51/60[0m	
+[0mtrain: acc (mostFreq) =0.56911806112062[0m	
+[0mtrain: acc.match mostfreq = 0.56911806112062[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10527802444536[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15446293849676[0m	
+[0mtrain loss=133.77302643826[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 52/60[0m	
+[0mtrain: acc (mostFreq) =0.57026326048819[0m	
+[0mtrain: acc.match mostfreq = 0.57026326048819[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10512551168482[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15476796401783[0m	
+[0mtrain loss=133.05136029889[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 53/60[0m	
+[0mtrain: acc (mostFreq) =0.57230458512919[0m	
+[0mtrain: acc.match mostfreq = 0.57230458512919[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10503346256308[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15381408243271[0m	
+[0mtrain loss=132.30584664406[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 54/60[0m	
+[0mtrain: acc (mostFreq) =0.57323049100084[0m	
+[0mtrain: acc.match mostfreq = 0.57323049100084[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10505241385285[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15456491448457[0m	
+[0mtrain loss=131.56660295304[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 55/60[0m	
+[0mtrain: acc (mostFreq) =0.57512561997791[0m	
+[0mtrain: acc.match mostfreq = 0.57512561997791[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10514356053222[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15379783847005[0m	
+[0mtrain loss=130.83886589083[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 56/60[0m	
+[0mtrain: acc (mostFreq) =0.5763845270841[0m	
+[0mtrain: acc.match mostfreq = 0.5763845270841[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10485116920433[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15341430046278[0m	
+[0mtrain loss=130.15003371996[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 57/60[0m	
+[0mtrain: acc (mostFreq) =0.57772736133071[0m	
+[0mtrain: acc.match mostfreq = 0.57772736133071[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10485116920433[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15431764527518[0m	
+[0mtrain loss=129.49333856498[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 58/60[0m	
+[0mtrain: acc (mostFreq) =0.57866138918369[0m	
+[0mtrain: acc.match mostfreq = 0.57866138918369[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10482680326034[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15362637441974[0m	
+[0mtrain loss=128.7867520683[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 59/60[0m	
+[0mtrain: acc (mostFreq) =0.58002317472006[0m	
+[0mtrain: acc.match mostfreq = 0.58002317472006[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10500368196487[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15354515460644[0m	
+[0mtrain loss=128.11974391473[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
+[0mepoch 60/60[0m	
+[0mtrain: acc (mostFreq) =0.58130915509736[0m	
+[0mtrain: acc.match mostfreq = 0.58130915509736[0m	
+[0mtrain: acc.dataset (OpenEnd) =0.10507226758499[0m	
+[0mtrain: acc.dataset (MultipleChoice) =0.15432486481415[0m	
+[0mtrain loss=127.49122568111[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/baseline_data_refined/model/BOWIMG.t7[0m	
