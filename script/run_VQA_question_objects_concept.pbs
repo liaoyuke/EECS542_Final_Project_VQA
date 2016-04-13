@@ -2,7 +2,7 @@
 #PBS -S /bin/sh
 #PBS -N VQA_question_objects_concept
 #PBS -l nodes=1:ppn=1:gpus=2
-#PBS -l pmem=24gb
+#PBS -l pmem=12gb
 #PBS -q fluxg
 #PBS -A eecs542w16_fluxg
 #PBS -l qos=flux
