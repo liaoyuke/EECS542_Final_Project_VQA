@@ -1,0 +1,16 @@
+[?1034h[0muse GPU IDX=2[0m	
+[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_answer.txt[0m	
+[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_question_objects_keywords.txt[0m	
+/home/software/rhel6/lsa/torch/latest/bin/luajit: ...ftware/rhel6/lsa/torch/latest/share/lua/5.1/pl/utils.lua:173: argument 1 expected a 'string', got a 'nil'
+stack traceback:
+	[C]: in function 'error'
+	...ftware/rhel6/lsa/torch/latest/share/lua/5.1/pl/utils.lua:388: in function 'assert_arg'
+	...ftware/rhel6/lsa/torch/latest/share/lua/5.1/pl/utils.lua:400: in function 'assert_string'
+	...ftware/rhel6/lsa/torch/latest/share/lua/5.1/pl/utils.lua:173: in function 'usplit'
+	...ware/rhel6/lsa/torch/latest/share/lua/5.1/pl/stringx.lua:165: in function 'split'
+	...roject_VQA/code/VQA_objects_keywords/opensource_base.lua:193: in function 'load_visualqadataset'
+	opensource_baseline.lua:159: in function 'runTrainVal'
+	opensource_baseline.lua:233: in main chunk
+	[C]: in function 'dofile'
+	...6/lsa/torch/latest/lib/luarocks/rocks/trepl/scm-1/bin/th:131: in main chunk
+	[C]: at 0x00405800
