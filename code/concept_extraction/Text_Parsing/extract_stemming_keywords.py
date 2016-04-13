@@ -21,10 +21,14 @@ with open(input_file_path) as fin:
 	list_str_k = fin.readlines()
 
 list_stem_str = []
+i = 0
 for str_k in list_str_k:
+	print i
+	i = i + 1
 	str_k = str_k.rstrip()
 	stem_words = []
 	words = str_k.split('-')
+	words = list(set(words))
 	for word in words:
 		if is_phrase(word):
 			stem_words.append(stem_phrase(word))

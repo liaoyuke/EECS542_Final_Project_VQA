@@ -1,9 +1,10 @@
 input_files = []
 input_files.append("questions/coco_trainval2014_question_keywords_stem.txt")
 input_files.append("questions/coco_test-dev2015_question_keywords_stem.txt")
+input_files.append("objects/coco_trainval2014_objects_stem.txt")
 
 
-output_file = "questions/unique_keywords.txt"
+output_file = "concepts/unique_keywords.txt"
 
 unique_keywords = set()
 for input_file in input_files:
