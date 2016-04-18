@@ -1,0 +1,11 @@
+[?1034h[0muse GPU IDX=1[0m	
+/home/software/rhel6/lsa/torch/latest/bin/luajit: cannot open <model/BOWIMG.t7> in mode r  at /usr/flux/software/src/lsa/torch/torch-latest/pkg/torch/lib/TH/THDiskFile.c:484
+stack traceback:
+	[C]: at 0x2aaaaad01190
+	[C]: in function 'DiskFile'
+	...ware/rhel6/lsa/torch/latest/share/lua/5.1/torch/File.lua:309: in function 'load'
+	opensource_baseline.lua:202: in function 'runTest'
+	opensource_baseline.lua:234: in main chunk
+	[C]: in function 'dofile'
+	...6/lsa/torch/latest/lib/luarocks/rocks/trepl/scm-1/bin/th:131: in main chunk
+	[C]: at 0x00405800

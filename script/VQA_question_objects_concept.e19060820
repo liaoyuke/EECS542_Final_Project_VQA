@@ -1,5 +1,0 @@
-[?1034h[0muse GPU IDX=2[0m	
-[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_answer.txt[0m	
-[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_question_concept.txt[0m	
-[0m no.vocab_question=10920, no.vocab_answer=5216[0m	
-PANIC: unprotected error in call to Lua API (not enough memory)
