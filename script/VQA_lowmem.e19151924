@@ -1,0 +1,6 @@
+[?1034h[0muse GPU IDX=1[0m	
+[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_val_answer.txt[0m	
+[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_val_question.txt[0m	
+[0mgooglenetFCdense[0m	
+[0moutput the OpenEnd prediction to JSON file...result/vqa_OpenEnded_mscoco_trainval2014_val_BOWIMG_results.json[0m	
+[0moutput the MultipleChoice prediction to JSON file...result/vqa_MultipleChoice_mscoco_trainval2014_val_BOWIMG_results.json[0m	
