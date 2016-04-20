@@ -35,7 +35,7 @@ function build_model(opt, manager_vocab)
         local module_vdata = nn.Sequential():add(nn.SelectTable(2))
         local module_cdata = nn.Sequential():add(nn.SelectTable(3)):add(nn.LinearNB(manager_vocab.nvocab_concept, opt.embed_word))
         local cat = nn.ConcatTable():add(module_tdata):add(module_vdata):add(module_cdata)
-        model:add(cat):add(nn.JoinTable(3))
+        model:add(cat):add(nn.JoinTable(2))
         model:add(nn.LinearNB(opt.embed_word + opt.embed_word + opt.vdim, manager_vocab.nvocab_answer))
     else
         print('no such methods')
