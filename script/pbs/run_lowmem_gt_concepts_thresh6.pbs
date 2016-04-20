@@ -1,0 +1,17 @@
+#!/bin/sh
+#PBS -S /bin/sh
+#PBS -N VQA_lowmem_gt_concepts_thresh6
+#PBS -l nodes=1:ppn=1:gpus=1
+#PBS -l pmem=4gb
+#PBS -q fluxg
+#PBS -A eecs542w16_fluxg
+#PBS -l qos=flux
+#PBS -M liaoyuke@umich.edu
+#PBS -m abe
+#PBS -l walltime=15:00:00
+#PBS -j eo
+#PBS -V
+
+module load lsa torch/latest
+cd /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_concepts_thresh6
+th opensource_baseline.lua
