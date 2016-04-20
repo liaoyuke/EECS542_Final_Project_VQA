@@ -68,7 +68,7 @@ function initial_params()
     -- parameters for data pre-process
     cmd:option('--thresh_questionword',6, 'threshold for the word freq on question')
     cmd:option('--thresh_answerword', 3, 'threshold for the word freq on the answer')
-    cmd:option('--thresh_objectword', 1, 'threshold for the word freq on the concept')
+    cmd:option('--thresh_conceptword', 1, 'threshold for the word freq on the concept')
     cmd:option('--batchsize', 100)
     cmd:option('--seq_length', 50)
 
