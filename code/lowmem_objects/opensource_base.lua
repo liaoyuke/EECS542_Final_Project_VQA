@@ -301,7 +301,8 @@ function load_visualqadataset(opt, dataType, manager_vocab)
     collectgarbage()
     -- Return the state.
     local _state = {
-        x_question = x_question, 
+        x_question = x_question,
+        x_concept = x_concept,
         x_answer = x_answer, 
         x_answer_num = x_answer_num, 
         featureMap = featureMap, 
