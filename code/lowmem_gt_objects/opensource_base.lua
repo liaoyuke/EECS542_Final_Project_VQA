@@ -46,13 +46,13 @@ function config_layer_params(opt, params_current, gparams_current, IDX_wordembed
     local grad_last = {}
     if IDX_wordembed == 1 then
         -- assume wordembed matrix is the params_current[1]
-        config_layers.lr_rates = {lr_wordembed}
-        config_layers.gradientClips = {gradientClip_dummy}
-        config_layers.weightClips = {weightClip_wordembed}
-        config_layers.moments = {moments_dummy}
-        config_layers.weightRegConsts = {weightRegConsts_dummy}
-        config_layers.initialRange = {initialRange_dummy}
-        for i = 2, #params_current do
+        config_layers.lr_rates = {lr_wordembed, lr_wordembed}
+        config_layers.gradientClips = {gradientClip_dummy, gradientClip_dummy}
+        config_layers.weightClips = {weightClip_wordembed, weightClip_wordembed}
+        config_layers.moments = {moments_dummy, moments_dummy}
+        config_layers.weightRegConsts = {weightRegConsts_dummy, weightRegConsts_dummy}
+        config_layers.initialRange = {initialRange_dummy, initialRange_dummy}
+        for i = 3, #params_current do
             table.insert(config_layers.lr_rates, lr_other)
             table.insert(config_layers.moments, moments_dummy)
             table.insert(config_layers.gradientClips, gradientClip_dummy)
@@ -573,7 +573,7 @@ function train_epoch(opt, state, manager_vocab, context, updateIDX)
                 elseif opt.method == 'BOWIMG' then
                     input = {featBatch_word, featBatch_visual}
                 elseif opt.method == 'BOWIMG_C' then
-                    input = {featBatch_word, featBatch_visual, featBatch_concept}
+                    input = {featBatch_word, featBatch_concept, featBatch_visual}
                 elseif opt.method == 'IMG' then
                     input = featBatch_visual
                 else 

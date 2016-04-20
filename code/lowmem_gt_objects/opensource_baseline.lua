@@ -32,9 +32,9 @@ function build_model(opt, manager_vocab)
     elseif opt.method == 'BOWIMG_C' then
         model = nn.Sequential()
         local module_tdata = nn.Sequential():add(nn.SelectTable(1)):add(nn.LinearNB(manager_vocab.nvocab_question, opt.embed_word))
-        local module_vdata = nn.Sequential():add(nn.SelectTable(2))
-        local module_cdata = nn.Sequential():add(nn.SelectTable(3)):add(nn.LinearNB(manager_vocab.nvocab_concept, opt.embed_word))
-        local cat = nn.ConcatTable():add(module_tdata):add(module_vdata):add(module_cdata)
+        local module_cdata = nn.Sequential():add(nn.SelectTable(2)):add(nn.LinearNB(manager_vocab.nvocab_concept, opt.embed_word))
+        local module_vdata = nn.Sequential():add(nn.SelectTable(3))
+        local cat = nn.ConcatTable():add(module_tdata):add(module_cdata):add(module_vdata)
         model:add(cat):add(nn.JoinTable(2))
         model:add(nn.LinearNB(opt.embed_word + opt.embed_word + opt.vdim, manager_vocab.nvocab_answer))
     else
