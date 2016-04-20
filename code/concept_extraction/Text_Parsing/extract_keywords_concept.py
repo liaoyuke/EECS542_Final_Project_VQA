@@ -4,8 +4,8 @@ import os
 import json
 from get_commonsense import *
 
-input_file_path = sys.argv[1]
-output_file_path = sys.argv[2]
+input_file_path = 'concepts/unique_keywords.txt'
+output_file_path = 'concepts/concept_map.json'
 
 concept_map = {}
 if os.path.isfile(output_file_path):
