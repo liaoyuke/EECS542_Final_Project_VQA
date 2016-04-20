@@ -200,7 +200,7 @@ function load_visualqadataset(opt, dataType, manager_vocab)
     if manager_vocab == nil then
         local vocab_map_answer, ivocab_map_answer, nvocab_answer = build_vocab(data_answer, opt.thresh_answerword, 1, 0)
         local vocab_map_question, ivocab_map_question, nvocab_question = build_vocab(data_question,opt.thresh_questionword, 0, 1)
-        local vocab_map_concept, ivocab_map_concept, nvocab_concept = build_vocab(data_concept,opt.thresh_concept, 0, 1)
+        local vocab_map_concept, ivocab_map_concept, nvocab_concept = build_vocab(data_concept,opt.thresh_objectword, 0, 1)
         print(' no.vocab_question=' .. nvocab_question.. ', no.vocab_answer=' .. nvocab_answer.. ', no.vocab_concept' .. nvocab_concept)
         manager_vocab_ = {vocab_map_answer=vocab_map_answer, ivocab_map_answer=ivocab_map_answer, vocab_map_question=vocab_map_question, ivocab_map_question=ivocab_map_question, nvocab_answer=nvocab_answer, nvocab_question=nvocab_question, vocab_map_concept=vocab_map_concept, ivocab_map_concept=ivocab_map_concept, nvocab_concept=nvocab_concept}
     else
