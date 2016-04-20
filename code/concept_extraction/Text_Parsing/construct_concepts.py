@@ -31,7 +31,7 @@ for i in range(len(keywords_list)):
     objects_str = objects_list[i].rstrip()
     elements_str = keywords_str + "-" + objects_str
     if len(elements_str) == 1:
-        concepts_list.extend(concepts)
+        concepts_list.append(concepts)
         continue
     elements = elements_str.split('-')
     concepts.extend(elements)
