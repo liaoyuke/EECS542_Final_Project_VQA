@@ -1,5 +1,6 @@
 # VQA dataset
 data/*
+concept_data/*
 
 # pyc files
 *.pyc
@@ -15,7 +16,6 @@ luac.out
 
 # luarocks build files
 *.src.rock
-*.zip
 *.tar.gz
 
 # Object files
