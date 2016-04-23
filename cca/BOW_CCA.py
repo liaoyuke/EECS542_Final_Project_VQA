@@ -2,7 +2,9 @@
 
 from sklearn.cross_decomposition import CCA
 from sklearn.externals import joblib
+from random import randint
 import sys
+import json
 
 def make_list_of_zeros(num_zeros):
     return [0] * num_zeros
@@ -60,11 +62,34 @@ def validate_BOW(BOW_mat):
             if val != 0 and val != 1:
                 print "Wrong BOW value"
 
+def sample_data(answers_list, concepts_list, interval):
+    assert(len(answers_list) == len(concepts_list))
+    #assert(len(answers_list) % interval == 0)
+    answers_sample_list = []
+    concepts_sample_list = []
+    for i in range(0, len(answers_list), interval):
+        rand_num = i + randint(0, interval - 1)
+        if rand_num >= len(answers_list):
+            rand_num = len(answers_list) - 1
+        answers_sample_list.append(answers_list[rand_num])
+        concepts_sample_list.append(concepts_list[rand_num])
+    return answers_sample_list, concepts_sample_list
+
+def save_BOW_as_CSV(BOW_mat, output_file_path):
+    f_out = open(output_file_path, 'w')
+    for BOW_vec in BOW_mat:
+        str_line = ''
+        for BOW_num in BOW_vec:
+            str_line = str_line + str(BOW_num) + ','
+        f_out.write(str_line[:-1] + '\n')
+    f_out.close()
+
+
 if __name__ == '__main__':
-    concepts_file_path = sys.argv[1] # coco_trainval2014_answer.txt
-    answer_file_path = sys.argv[2] # coco_trainval2014_concepts.txt
+    answer_file_path = sys.argv[1] # coco_trainval2014_concepts.txt
+    concepts_file_path = sys.argv[2] # coco_trainval2014_answer.txt
     concept_word_threshold = int(sys.argv[3]) # 6
-    answer_word_threshold = 3
+    answer_word_threshold = 9
 
     with open(answer_file_path) as f_answer:
         answer_str_list = f_answer.readlines()
@@ -74,29 +99,29 @@ if __name__ == '__main__':
 
     answers_list = convert_word_str_to_words(answer_str_list, True)
     concepts_list = convert_word_str_to_words(concept_str_list, False)
-    num_samples = len(answers_list)
-    answers_list = answers_list[:num_samples]
-    concepts_list = concepts_list[:num_samples]
+    #num_samples = len(answers_list)
+    #answers_list = answers_list[:num_samples]
+    #concepts_list = concepts_list[:num_samples]
+    print 'starts sampling'
+    print 'original length = ' + str(len(answers_list))
+    answers_list, concepts_list = sample_data(answers_list, concepts_list, 12)
+    print 'sampled length = ' + str(len(answers_list))
     print 'creating word to index map ...'
     answer_index_map, n_answers = create_word_index(answers_list, answer_word_threshold)
     concepts_index_map, n_concepts = create_word_index(concepts_list, concept_word_threshold)
+
+    print 'saving created answer and concepts index map'
+    with open('gt_answer_index_map.json', 'w') as outfile:
+        json.dump(answer_index_map, outfile)
+    with open('gt_concepts_index_map.json', 'w') as outfile:
+        json.dump(concepts_index_map, outfile)
+
     print '#answers = ' + str(n_answers)
     print '#concepts = ' + str(n_concepts)
     print 'creating bag of words features'
     #Create BOW
     BOW_answers = create_BOW_matrix(answers_list, answer_index_map, n_answers)
     BOW_concepts = create_BOW_matrix(concepts_list, concepts_index_map, n_concepts)
-    print 'starts fitting cca model'
-    #create the CCA model
-    cca = CCA(n_components=1024)
-    cca.fit(BOW_concepts,BOW_answers)
-    is_gt = False
-    if "gt" in concepts_file_path:
-        is_gt = True
-    cca_save_path = ''
-    if is_gt:
-        cca_save_path = 'Mycca_gt_' + str(concept_word_threshold) + '.pkl'
-    else:
-        cca_save_path = 'Mycca_' + str(concept_word_threshold) + '.pkl'
-    print 'starts saving trained cca model to ' + cca_save_path
-    joblib.dump(cca, cca_save_path, compress = 9)
+    print 'saving bag of words features to files'
+    save_BOW_as_CSV(BOW_answers, 'coco_trainval2014_gt_answer_BOW.txt')
+    save_BOW_as_CSV(BOW_concepts, 'coco_trainval2014_gt_concepts_BOW.txt')

@@ -16,7 +16,7 @@ keywords_file_path = sys.argv[1]
 objects_file_path = sys.argv[2]
 output_file_path = sys.argv[3]
 concept_map_file_path = 'concepts/concept_map.json'
-num_concept_to_extract = 8
+num_concept_to_extract = 2
 
 stem_map_file_path = 'concepts/stem_map.json'
 
