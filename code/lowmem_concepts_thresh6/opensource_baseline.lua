@@ -129,7 +129,7 @@ function runTrainVal()
         end
         -- Combine train2014 and val2014
         local nEpoch_trainAll = nEpoch_best
-        local state_train, manager_vocab = load_visualqadataset(opt, 'trainval2014', nil)
+        local state_train, manager_vocab = load_visualqadataset(opt, 'trainval2014_train', nil)
         -- recreate the model  
         local model, criterion = build_model(opt, manager_vocab)
         local paramx, paramdx = model:getParameters()
