@@ -203,5 +203,5 @@ function runTest()
 
 end
 
-runTrainVal()
--- runTest()
+-- runTrainVal()
+runTest()

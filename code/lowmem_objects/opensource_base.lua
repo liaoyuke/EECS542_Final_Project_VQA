@@ -150,7 +150,7 @@ function load_visualqadataset(opt, dataType, manager_vocab)
     
     local prefix = 'coco_' .. dataType 
     local filename_question = paths.concat(path_dataset, prefix .. '_question.txt')
-    local filename_concept = paths.concat(path_dataset, prefix .. '_gt_objects.txt')
+    local filename_concept = paths.concat(path_dataset, prefix .. '_objects.txt')
     local filename_answer = paths.concat(path_dataset, prefix .. '_answer.txt')
     local filename_imglist = paths.concat(path_dataset, prefix .. '_imglist.txt')
     local filename_allanswer = paths.concat(path_dataset, prefix .. '_allanswer.txt')
