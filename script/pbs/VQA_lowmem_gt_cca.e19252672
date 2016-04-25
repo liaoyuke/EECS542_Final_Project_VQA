@@ -1,0 +1,161 @@
+[?1034h[0muse GPU IDX=1[0m	
+[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_train_answer.txt[0m	
+[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_train_question.txt[0m	
+[0m no.vocab_question=5524, no.vocab_answer=4931[0m	
+[0mgooglenetFCdense[0m	
+[0mlr_wordembed = 0.8[0m	
+[0mlr_other = 0.01[0m	
+[0mweightClip_wordembed = 1500[0m	
+[0mweightClip_other = 20[0m	
+{
+  1 : [0;31mCudaTensor - size: 1024x5524[0m
+  2 : [0;31mCudaTensor - size: 1024x305[0m
+  3 : [0;31mCudaTensor - size: 4931x3072[0m
+}
+[0mstart training on all data ...[0m	
+[0mepoch 1/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 2/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 3/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 4/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 5/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 6/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 7/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 8/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 9/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 10/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 11/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 12/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 13/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 14/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 15/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 16/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 17/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 18/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 19/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 20/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 21/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 22/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 23/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 24/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 25/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 26/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 27/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 28/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 29/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 30/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 31/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 32/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 33/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 34/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 35/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 36/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 37/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 38/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 39/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 40/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 41/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 42/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 43/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 44/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 45/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 46/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 47/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 48/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 49/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 50/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 51/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 52/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 53/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 54/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 55/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 56/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 57/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 58/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 59/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 60/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 61/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 62/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 63/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 64/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 65/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 66/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 67/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 68/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 69/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0mepoch 70/70[0m	
+[0msaving model /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/code/lowmem_gt_cca/model/BOWIMG_C.t7[0m	
+[0muse GPU IDX=1[0m	
+[0mLoad answer file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_val_answer.txt[0m	
+[0mLoad question file = /scratch/eecs542w16_fluxg/liaoyuke/EECS542_Final_Project_VQA/data/coco_trainval2014_val_question.txt[0m	
+[0mgooglenetFCdense[0m	
+[0moutput the OpenEnd prediction to JSON file...result/vqa_OpenEnded_mscoco_trainval2014_val_BOWIMG_C_results.json[0m	
+[0moutput the MultipleChoice prediction to JSON file...result/vqa_MultipleChoice_mscoco_trainval2014_val_BOWIMG_C_results.json[0m	
